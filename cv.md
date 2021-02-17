@@ -1,65 +1,88 @@
 ---
 layout: resume
 ---
-## Currently
+## PROFESSIONAL SUMMARY
 
-Current Position Description
+Proactive Data Analyst with a background in Business Analytics and strong problem-solving, analyzing, and research skills. Experienced in modeling, interpreting, and reporting data. Excellence in working with cross-functional business team to better serve clients in making data-driven decisions. Recognized for maximizing performance by implementing appropriate project analysis.
+
+## DATA ANALYSIS PROJECTS
+
+__COVID-19 in the US Descriptive Analysis__
+- Created an interactive dashboard and applied machine learning techniques to COVID-19 data to prevent the further spread of this virus. 
+- Technical Scope: Jupyter Notebook, scikit-learn, Stats models API, Seaborn, Machine Learning Regression, Clustering, and Time series Analysis.
+
+__Instacart Grocery Basket Exploratory Analysis__
+- Conducted an exploratory analysis on “Instacart Online Grocery Shopping Dataset 2017”to derive insights and suggest strategies for better segmentation. 
+- Technical Scope: Jupyter Notebook, pandas, NumPy, Matplotlib, OS, SciPy, and Pickle Module.
+
+__Rockbuster Stealth Data Analysis Project__
+- Loaded all data into a relational database management system and performed advanced SQL techniques such as common table expression or data extraction to launch strategy for the new online video rental service.
+- Technical Scope:  pgAdmin, Tableau, GitHub, RDBMS, Db Visualizer, and Data Dictionary.
+
+__US Flu Predictive Analysis__
+- Performed data mining on influenza data Forecasted trends to optimize staffing plan of medical agency. 
+- Technical Scope: Excel, Tableau, Data profiling, Statistical Hypothesis Testing, Spatial Analysis, and VLOOPUP.
+
+## PROFESSIONAL EXPERIENCE
+
+`2019 - present`
+__Data Analyst__, UN Association in Canada 
+
+- Maintain data in Raiser’s Edge Database Management System (DBMS) including updating contacts and gift donations.
+- Oversee distribution of monthly newsletter including validating distribution list and reviewing articles. 
+
+
+`2016`
+__Merchandise Representativee__, Me to We Corporation
+
+- Sold ‘Me to We’ products at a merchandise booth.
+- Entered sales data into system at end of each shift.
+
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2021`
+__Data Immersion Certificate__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+Career Foundry
 
-## Awards
+`2018 – 2021`
+__Bachelor of Business Analytics__
 
-`2012`
-Name of Award, Organization 
+University of Ottawa
+
+`2017`
+__Project Management Certificate__
+
+Algonquin College
+
+
+
+## Skills
+
+__Python:__ Deriving variables, Descriptive Analysis, Data wrangling, Data Cleaning, Visualizations with Python Libraries. 
+
+__Excel:__ MS Office, Pivot Tables, Data Cleaning, Data Integration, Data Transformation, Statistical Hypothesis, VLOOKUP. 
+
+__Database & SQL:__ Analyzing Relational Database, Database Querying, Filtering, Cleaning and Summarizing, Joining the Tables, Subquery, Common Table Expressions.
+
+__Tableau:__ Forecasting, Visual Analysis, Storytelling, Visual Hypothesis Testing, Presenting Results, Dashboards.
+
+- Project management 
+- GitHub
+
+
+
+
+
+
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
