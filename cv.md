@@ -2,6 +2,10 @@
 layout: resume
 ---
 
+__Resume__
+
+- Put a link to download the resume
+
 
 ## PROFESSIONAL SUMMARY
 
