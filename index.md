@@ -19,5 +19,4 @@ I have volunteered in different organizations. And I was applauded for being a d
 - US Flu Predictive Analysis
 
 ## Links
-- [GitHub Pages](https://github.com/morwarid1)
 - [Tableau pages](https://public.tableau.com/profile/morwarid.najafizada#!/)
