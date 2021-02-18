@@ -65,11 +65,15 @@ Ordering behaviors of customers differ based on the number of products they orde
 We have 3 types of customers: 
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
 
+![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
+
 Region play role in the ordering habits of customers. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Region.png) 
 
-There is an increase in the mean of ordering behavior from seniors, single adults,s and young parents. 
-![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
+
+![Pies](https://morwarid1.github.io/images/instacart_images/Region_income.png) 
+
+
 
 
 
