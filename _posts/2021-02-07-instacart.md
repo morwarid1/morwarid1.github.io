@@ -8,8 +8,39 @@ comments: true
 category: blog
 ---
 
-- Add Report file as downloadable
-- Link to the Tableau
+### Context 
+### Objectives
+### Key Questions from Sales and Marketing team
+### Process 
+
+First Step | Second Step |  Thirds Step
+------------ | ------------- | -------------
+Content cell 1 | Content cell 2 | -------------
+Content column 1 | Content column 2 |-------------
+  
+  
+### Results
+### Recomendations
+
+Challages | Solutions
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+### Tools Used 
+
+
+
+
+
+
+
+
+
+
+
+- Add Report file as downloadable ?
+- Link to the Tableau ?
 
 
 
@@ -23,6 +54,9 @@ category: blog
 
 
 
-### The Python Codes will be added 
+
+
+
+### The Python Codes will be added ....?
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
