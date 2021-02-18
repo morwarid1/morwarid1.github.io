@@ -21,8 +21,8 @@ Instacart is an online grocery store that operates through an app. They want to 
 
 Key Questions from Sales and Marketing team |
 ---------------------------------------------------|
-What the busiest days of the week and hours of the day are? |
-Are there particular times of the day when people spend the most money? |
+What is the busiest days of the week and hours of the day are? |
+Times of the day when people spend the most money. |
 Which departments have the highest frequency of product orders? |
 What are the different types of customers in the system and how their ordering behaviors differ? |
 What's the distribution among users in regards to their brand loyalty? |
@@ -39,9 +39,40 @@ First Step | Second Step |  Thirds Step
 ------------ | ------------- | -------------
 Content cell 1 | Content cell 2 | -------------
 Content column 1 | Content column 2 |-------------
+![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
+
+
+
+
   
   
 ### Results
+The busiest days of the week are the first and last day of the week. And from 4 to 5 am is the busiest hour of the day. 
+![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
+![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
+
+
+
+People spend more money in the morning before 10 am. 
+![Pies](https://morwarid1.github.io/images/instacart_images/C_order_Hour.png) 
+
+The department ID 10.25 has the highest ordering behavior. 
+![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
+
+Ordering behaviors of customers differ based on the number of products they order.
+We have 3 types of customers: 
+![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
+
+Region play role in the ordering habits of customers. 
+![Pies](https://morwarid1.github.io/images/instacart_images/C_Region.png) 
+
+There is an increase in the mean of ordering behavior from seniors, single adults,s and young parents. 
+![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
+
+
+
+
+
 ### Recomendations
 
 Challages | Solutions
