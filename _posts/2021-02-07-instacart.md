@@ -40,7 +40,7 @@ First Step | Second Step |  Thirds Step
 Content cell 1 | Content cell 2 | Content cell 3
 Content column 1 | Content column 2 | Conent Cell 3 
 
-
+### Data Cleaning Process shown in order
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
 
 
