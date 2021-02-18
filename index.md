@@ -11,7 +11,8 @@ Hi, My name is Morwarid Najafizada. I am a self – directed certified data anal
 I have volunteered in different organizations. And I was applauded for being a detail-oriented and innovative employee. Now, I am ready to contribute my skills as a passionate data analyst to a professional services firm. And contribute to helping better serve clients in making data-driven decisions and add value for the cross-functional business team.
 
 
-## Current Projects:
+## Projects
+A list of my top data analysis projects. 
 
 - COVID-19 in the US Descriptive Analysis
 - Instacart Grocery Basket Exploratory Analysis 
@@ -19,4 +20,4 @@ I have volunteered in different organizations. And I was applauded for being a d
 - US Flu Predictive Analysis
 
 ## Links
-- [Tableau pages](https://public.tableau.com/profile/morwarid.najafizada#!/)
+- [Tableau Pages](https://public.tableau.com/profile/morwarid.najafizada#!/)
