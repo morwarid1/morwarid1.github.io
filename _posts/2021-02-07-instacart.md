@@ -8,7 +8,15 @@ comments: true
 category: blog
 ---
 
+
+
 ![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
+
+
+
+- Add Report file as downloadable ?
+- Link to the Tableau ?
+
 
 
 ### Context 
@@ -51,6 +59,7 @@ Content column 1 | Content column 2 | Conent Cell 3
 ### Results
 The busiest days of the week are the first and last day of the week. And from 4 to 5 am is the busiest hour of the day. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
+
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
 
@@ -58,19 +67,16 @@ The busiest days of the week are the first and last day of the week. And from 4 
 People spend more money in the morning before 10 am. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_Hour.png) 
 
-The department ID 10.25 has the highest ordering behavior. 
+Produce and dairy eggs has the highest number of orders
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
 
 Ordering behaviors of customers differ based on the number of products they order.
 We have 3 types of customers: 
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
-
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
 
 Region play role in the ordering habits of customers. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Region.png) 
-
-
 ![Pies](https://morwarid1.github.io/images/instacart_images/Region_income.png) 
 
 
@@ -87,30 +93,6 @@ Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
 ### Tools Used 
-
-
-
-
-
-
-
-
-
-
-
-- Add Report file as downloadable ?
-- Link to the Tableau ?
-
-
-
-
-
-
-
-
-
-
-
 
 
 
