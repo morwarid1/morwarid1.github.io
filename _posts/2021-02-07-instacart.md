@@ -17,18 +17,22 @@ Instacart is an online grocery store that operates through an app. They want to 
 
 ### Objectives
 
+
+
 Key Questions from Sales and Marketing team |
 ---------------------------------------------------
-1.What the busiest days of the week and hours of the day are? |
-2.Are there particular times of the day when people spend the most money? |
-3.Which departments have the highest frequency of product orders? |
-4.What are the different types of customers in the system and how their ordering behaviors differ? |
-5.What's the distribution among users in regards to their brand loyalty? |
-6.Are there differences in ordering habits based on a customer's loyalty status? |
-7.Is there a difference in ordering habits based on a customer's region? |
-8.Is there a connection between age and family status in terms of ordering habits? |
-9.What different classifications does the demographic information suggest? |
-10.What difference can you find in the ordering habits of different customer profiles? |
+What the busiest days of the week and hours of the day are? |
+Are there particular times of the day when people spend the most money? |
+Which departments have the highest frequency of product orders? |
+What are the different types of customers in the system and how their ordering behaviors differ? |
+What's the distribution among users in regards to their brand loyalty? |
+Are there differences in ordering habits based on a customer's loyalty status? |
+Is there a difference in ordering habits based on a customer's region? |
+Is there a connection between age and family status in terms of ordering habits? |
+What different classifications does the demographic information suggest? |
+What difference can you find in the ordering habits of different customer profiles? |
+
+
 ### Process 
 
 First Step | Second Step |  Thirds Step
