@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-images: ![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
+![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
 
 
 ### Context 
