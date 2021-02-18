@@ -8,6 +8,9 @@ comments: true
 category: blog
 ---
 
+images: ![Pies](https://morwarid1.github.io/images/PieChart.png) 
+
+
 ### Context 
 ### Objectives
 ### Key Questions from Sales and Marketing team
