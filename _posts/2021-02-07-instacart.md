@@ -20,7 +20,7 @@ Instacart is an online grocery store that operates through an app. They want to 
 
 
 Key Questions from Sales and Marketing team |
----------------------------------------------------
+---------------------------------------------------|
 What the busiest days of the week and hours of the day are? |
 Are there particular times of the day when people spend the most money? |
 Which departments have the highest frequency of product orders? |
