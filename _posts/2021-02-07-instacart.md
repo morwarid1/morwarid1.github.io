@@ -45,10 +45,11 @@ What difference can you find in the ordering habits of different customer profil
 
 ### Process 
 -----
-Data preparation | Analyzing data |  Visualization of the data
------------- | ------------- | -------------
-Cleaned the orders.csv, products.csv,customers.csv, and department.csv datasets | Conducted descriptive analysis | Line Chart, Bar Chart
-Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering, scatterplot 
+
+Data preparation | Analyzing data |  Visualization of the data |
+------------ | ------------- | ------------- |
+Cleaned the orders.csv, products.csv,customers.csv, and department.csv datasets | Conducted descriptive analysis | Line Chart, Bar Chart |
+Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering, scatterplot |
 
 ### Data Cleaning Process shown in order
 -----
