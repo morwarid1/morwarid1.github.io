@@ -57,15 +57,11 @@ Subsetting, consistency checks, combining and exporting data, deriving new varia
   
   
 ### Results
-The busiest days of the week are the first and last day of the week. And from 4 to 5 am is the busiest hour of the day. 
+The busiest days of the week are the first and last day of the week. And from 3 to 5 pm is the busiest hour of the day. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
-
-
-People spend more money in the morning before 10 am. 
-![Pies](https://morwarid1.github.io/images/instacart_images/C_order_Hour.png) 
 
 Produce and dairy eggs has the highest number of orders
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
@@ -83,16 +79,25 @@ Region play role in the ordering habits of customers.
 
 
 
+Customer's habits | 
+------------ | 
+3 to 5 pm is the busiest hour of the day | 
+Saturday, Sunday, and Friday busiest days of the week | 
+
+
 
 
 ### Recomendations
 
+
+
+
 Challages | Solutions
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+I had hard time creating new variable | I used loc and aggregation
 
-### Tools Used 
+
+
 
 
 
