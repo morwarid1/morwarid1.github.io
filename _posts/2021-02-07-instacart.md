@@ -57,9 +57,15 @@ Subsetting, consistency checks, combining and exporting data, deriving new varia
   
   
 ### Results
-The busiest days of the week are the first and last day of the week. And from 3 to 5 pm is the busiest hour of the day. 
+The busiest days of the week are the first and last day of the week. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
+![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
+![Pies](https://morwarid1.github.io/images/instacart_images/symbols) 
 
+
+
+
+And from 3 to 5 pm is the busiest hour of the day.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
 
