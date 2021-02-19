@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-### Codes in SQL
+### Queries Done in SQL 
 
 ### Common Table Expression (CTE)
 - Finding the average amount paid by the top 5 customers (1) 
