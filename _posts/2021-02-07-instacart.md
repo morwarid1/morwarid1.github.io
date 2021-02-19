@@ -57,8 +57,10 @@ Subsetting, consistency checks, combining and exporting data, deriving new varia
   
   
 ### Results
-The busiest days of the week are the first and last day of the week. 
+The busiest days of the week is the last day of the week and the weekend.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
+
+Saturaday, Sunday, and Friday are the busiest days of the week. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
 
