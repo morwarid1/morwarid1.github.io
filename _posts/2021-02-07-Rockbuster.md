@@ -12,8 +12,10 @@ category: blog
 
 ### Common Table Expression (CTE)
 - Finding the average amount paid by the top 5 customers (1) 
-- Finding out how many of the top 5 customers are based within each country. (2) 
+![Pies](https://morwarid1.github.io/images/Rockbuster/CTE_1.png) 
 
+- Finding out how many of the top 5 customers are based within each country. (2) 
+![Pies](https://morwarid1.github.io/images/Rockbuster/CTE_2.png) 
 
 ### Filtering Data
 - General Filtering in SQL (1)
@@ -41,20 +43,6 @@ category: blog
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-images: ![Pies](https://morwarid1.github.io/images/PieChart.png) 
 
 
 ### Context 
