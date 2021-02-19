@@ -90,7 +90,7 @@ Region play role in the ordering habits of customers.
 
 
 
-Customer's habits | 
+Customer  | Habits |
 ------------ | ------------ |
 3:00 pm to 5:00 pm  |  busiest hours of the day | 
 Saturday, Sunday, Friday | busiest days of the week |
