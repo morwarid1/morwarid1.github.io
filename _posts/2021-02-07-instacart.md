@@ -60,7 +60,10 @@ Subsetting, consistency checks, combining and exporting data, deriving new varia
 The busiest days of the week is the last day of the week and the weekend.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
 
+
 Saturaday, Sunday, and Friday are the busiest days of the week. 
+
+
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
 
@@ -71,7 +74,7 @@ And from 3 to 5 pm is the busiest hour of the day.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
 
-Produce and dairy eggs has the highest number of orders
+Produce and dairy eggs department has the highest number of orders
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
 
 Ordering behaviors of customers differ based on the number of products they order.
@@ -88,9 +91,11 @@ Region play role in the ordering habits of customers.
 
 
 Customer's habits | 
------------- | 
-3 to 5 pm is the busiest hour of the day | 
-Saturday, Sunday, and Friday busiest days of the week | 
+------------ | ------------ |
+3:00 pm to 5:00 pm  |  busiest hours of the day | 
+Saturday, Sunday, Friday | busiest days of the week |
+Produce and dairy eggs | Populart Departments |
+Regular Customers | Customers with highest ordering habits | 
 
 
 
