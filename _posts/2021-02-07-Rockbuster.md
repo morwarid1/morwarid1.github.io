@@ -25,8 +25,14 @@ category: blog
 
 ### Joining Tables
 - Finding Top 10 countries for Rockbuster
+![Pies](https://morwarid1.github.io/images/Rockbuster/JT_1.png) 
+
 - Finding Top 10 cities within top countries identified
+![Pies](https://morwarid1.github.io/images/Rockbuster/JT_2.png) 
+
 - Finding Top 5 customers in the top cities paid highest total amounts
+![Pies](https://morwarid1.github.io/images/Rockbuster/JT_3.png) 
+
 
 
 ### Subqueries
