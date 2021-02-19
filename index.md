@@ -5,6 +5,9 @@ excerpt: "About Me..."
 
 __“The goal is to turn data into information and information into insight.”__ 
 
+![data](https://morwarid1.github.io/images/data-analytics.jpg)
+
+
 ## About Me
 Hi, My name is Morwarid Najafizada. I am a self – directed certified data analyst from Career Foundry boot camp. And I am 4rth year eCommerce student at the Telfer school of management. I call myself a passionate data analyst because I love problem-solving, analyzing, and researching data. I love this field because it allows me to be creative with the data and create my interpretation of the data. I find the process very engaging and satisfactory because I get to showcase my result at the end. I can bring my excellent programming skills like SQL, Tableau, and Python to make me stand out in the vast competition.
 
