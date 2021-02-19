@@ -30,6 +30,12 @@ category: blog
 
 
 ### Subqueries
+- Finding average amount paid by the top 5 customers
+![Pies](https://morwarid1.github.io/images/Rockbuster/SQ_1.png) 
+
+- Finding how many of the top 5 customers are based within each country
+![Pies](https://morwarid1.github.io/images/Rockbuster/SQ_2.png) 
+
 
 
 
