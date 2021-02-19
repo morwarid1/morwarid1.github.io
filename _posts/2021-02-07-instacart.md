@@ -61,18 +61,13 @@ The busiest days of the week is the last day of the week and the weekend.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
 
 
-Saturaday, Sunday, and Friday are the busiest days of the week. 
-
-
+Saturaday, Sunday, and Friday are the busiest days of the week.  
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
 
 
-
-
 And from 3 to 5 pm is the busiest hour of the day.
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
-
 
 Produce and dairy eggs department has the highest number of orders
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
@@ -82,19 +77,12 @@ We have 3 types of customers:
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
 
-Region play role in the ordering habits of customers. 
-![Pies](https://morwarid1.github.io/images/instacart_images/C_Region.png) 
-![Pies](https://morwarid1.github.io/images/instacart_images/Region_income.png) 
 
-
-
-
-
-Customer  | Habits |
+Customer Habits |  |
 ------------ | ------------ |
 3:00 pm to 5:00 pm  |  busiest hours of the day | 
 Saturday, Sunday, Friday | busiest days of the week |
-Produce and dairy eggs | Populart Departments |
+Produce and dairy eggs | Popular Departments |
 Regular Customers | Customers with highest ordering habits | 
 
 
