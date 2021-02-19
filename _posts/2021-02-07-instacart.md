@@ -20,10 +20,12 @@ category: blog
 
 
 ### Context 
+-----
 Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. 
 
 
 ### Objectives
+-----
 My goal as a data analyst is to create a targeted marketing strategy by answering the questions of sales and Marketing team.
 
 
@@ -42,13 +44,14 @@ What difference can you find in the ordering habits of different customer profil
 
 
 ### Process 
-
+-----
 Data preparation | Analyzing data |  Visualization of the data
 ------------ | ------------- | -------------
 Cleaned the orders.csv, products.csv,customers.csv, and department.csv datasets | Conducted descriptive analysis | Line Chart, Bar Chart
 Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering, scatterplot 
 
 ### Data Cleaning Process shown in order
+-----
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
 
 
@@ -60,7 +63,7 @@ Produce and dairy eggs | Popular Departments |
 Regular Customers | Customers with highest ordering habits | 
 
 ### Recomendations
-  
+-----
 Saturaday, Sunday, and Friday are the busiest days of the week. I recommend to have more products avaiable at these days for the large number of purchases. On the other hand, I recommend doing more marketing at the days with fewest orders. This way the company can attract new customers. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
