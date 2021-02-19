@@ -61,19 +61,20 @@ Regular Customers | Customers with highest ordering habits |
 
 ### Recomendations
   
-Saturaday, Sunday, and Friday are the busiest days of the week.  
+Saturaday, Sunday, and Friday are the busiest days of the week. I recommend to have more products avaiable at these days for the large number of purchases. On the other hand, I recommend doing more marketing at the days with fewest orders. This way the company can attract new customers. 
+
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
 
 
-And from 3 to 5 pm is the busiest hour of the day.
+Betwee 3:00 pm to 5:00 pm are the busiest hour of the day. I recommend the marketing team should target to have more customers at morning hours. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
-Produce and dairy eggs department has the highest number of orders
+Produce and dairy eggs department has the highest number of orders. I recommend promoting the dapartments that are less popular in the marketing adds such as: bulk,pets, international, and babies department. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
 
 Ordering behaviors of customers differ based on the number of products they order.
-We have 3 types of customers: 
+We have 3 types of customers. I recommend the marketing team to give extra promotions and discounts to the new Customers. This can encourage them to order more oftern. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
 
