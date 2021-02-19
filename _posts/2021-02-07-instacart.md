@@ -20,11 +20,11 @@ category: blog
 
 
 ### Context 
-Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. My analysis will include creating a targeted marketing strategy by helping the stockholder with the following questions. 
+Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. 
 
 
 ### Objectives
-
+My goal as a data analyst is to create a targeted marketing strategy by answering the questions of sales and Marketing team.
 
 
 Key Questions from Sales and Marketing team |
@@ -43,10 +43,10 @@ What difference can you find in the ordering habits of different customer profil
 
 ### Process 
 
-First Step | Second Step |  Thirds Step
+Data preparation | Analyzing data |  Visualization of the data
 ------------ | ------------- | -------------
-Content cell 1 | Content cell 2 | Content cell 3
-Content column 1 | Content column 2 | Conent Cell 3 
+Cleaned the orders.csv, products.csv,customers.csv, and department.csv dataset | Conducted descriptive analysis | Line Chart, Bar Chart
+Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering,  scatterplot 
 
 ### Data Cleaning Process shown in order
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
