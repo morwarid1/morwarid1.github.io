@@ -45,8 +45,8 @@ What difference can you find in the ordering habits of different customer profil
 
 Data preparation | Analyzing data |  Visualization of the data
 ------------ | ------------- | -------------
-Cleaned the orders.csv, products.csv,customers.csv, and department.csv dataset | Conducted descriptive analysis | Line Chart, Bar Chart
-Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering,  scatterplot 
+Cleaned the orders.csv, products.csv,customers.csv, and department.csv datasets | Conducted descriptive analysis | Line Chart, Bar Chart
+Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering, scatterplot 
 
 ### Data Cleaning Process shown in order
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
