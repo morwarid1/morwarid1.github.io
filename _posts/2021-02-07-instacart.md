@@ -52,15 +52,15 @@ Subsetting, consistency checks, combining and exporting data, deriving new varia
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
 
 
+Customer Habits |  |
+------------ | ------------ |
+3:00 pm to 5:00 pm  |  busiest hours of the day | 
+Saturday, Sunday, Friday | busiest days of the week |
+Produce and dairy eggs | Popular Departments |
+Regular Customers | Customers with highest ordering habits | 
 
-
+### Recomendations
   
-  
-### Results
-The busiest days of the week is the last day of the week and the weekend.
-![Pies](https://morwarid1.github.io/images/instacart_images/avgspentweek_loyalcust.png) 
-
-
 Saturaday, Sunday, and Friday are the busiest days of the week.  
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
@@ -76,19 +76,6 @@ Ordering behaviors of customers differ based on the number of products they orde
 We have 3 types of customers: 
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
-
-
-Customer Habits |  |
------------- | ------------ |
-3:00 pm to 5:00 pm  |  busiest hours of the day | 
-Saturday, Sunday, Friday | busiest days of the week |
-Produce and dairy eggs | Popular Departments |
-Regular Customers | Customers with highest ordering habits | 
-
-
-
-
-### Recomendations
 
 
 
