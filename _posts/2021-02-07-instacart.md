@@ -15,7 +15,10 @@ category: blog
 
 
 - Add Report file as downloadable ?
-- Link to the Tableau ?
+
+
+- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard. 
+- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub
 
 
 
@@ -92,12 +95,5 @@ Challages | Solutions
 I had hard time creating new variable | I used loc and aggregation
 
 
-
-
-
-
-
-
-### The Python Codes will be added ....?
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
