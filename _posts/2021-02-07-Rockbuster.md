@@ -8,7 +8,18 @@ comments: true
 category: blog
 ---
 
-### Queries Done in SQL 
+
+- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/USDeathsbyState/Covid-19CaseStudyDashboard) to view the full Tableau presentation. 
+- Click [here](https://github.com/morwarid1/COVID-19-in-the-US-Descriptive-Analysis) to view my SQL codes on GitHub
+
+
+
+Sample of my queries done in SQL  | 
+------------ | 
+Common Table Expression (CTE) | 
+Joining Tables | 
+Subqueries |
+
 
 ### Common Table Expression (CTE)
 - Finding the average amount paid by the top 5 customers 
@@ -16,6 +27,7 @@ category: blog
 
 - Finding out how many of the top 5 customers are based within each country. 
 ![Pies](https://morwarid1.github.io/images/Rockbuster/CTE_2.png) 
+
 
 ### Joining Tables
 - Finding Top 10 countries for Rockbuster
@@ -28,7 +40,6 @@ category: blog
 ![Pies](https://morwarid1.github.io/images/Rockbuster/JT_3.png) 
 
 
-
 ### Subqueries
 - Finding average amount paid by the top 5 customers
 ![Pies](https://morwarid1.github.io/images/Rockbuster/SQ_1.png) 
@@ -36,10 +47,6 @@ category: blog
 - Finding how many of the top 5 customers are based within each country
 ![Pies](https://morwarid1.github.io/images/Rockbuster/SQ_2.png) 
 
-
-
-
-### Summarizing & Cleaning Data
 
 
 
