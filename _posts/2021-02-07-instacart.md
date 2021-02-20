@@ -14,7 +14,7 @@ category: blog
 
 
 
-- <a href="morwarid1.github.io/images/Morwarid_Najafizada_Resume.pdf" target="_blank">PDF.</a>
+<a href="morwarid1.github.io/images/Morwarid_Najafizada_Resume.pdf" target="_blank">PDF.</a>
 
 - Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
 - Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
