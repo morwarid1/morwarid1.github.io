@@ -22,4 +22,4 @@ A list of my top data analysis projects.
 - Rockbuster Stealth Data Analysis Project
 - US Flu Predictive Analysis
 
-[Tableau Presentations](https://public.tableau.com/profile/morwarid.najafizada#!/)
+Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/) to view the Tableau presentations
