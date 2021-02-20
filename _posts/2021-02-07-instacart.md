@@ -10,9 +10,6 @@ category: blog
 ![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
 
 
-- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
-- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
-
 --------
 ### Context 
 
@@ -86,6 +83,12 @@ We have 3 types of customers. I recommend the marketing team to give extra promo
 Challages | Solutions
 ------------ | -------------
 I had hard time creating new variable | I used loc and aggregation
+
+-----
+
+- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
+- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
+
 
 
 
