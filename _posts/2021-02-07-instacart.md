@@ -18,7 +18,7 @@ category: blog
 
 
 - Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
-- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub
+- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
 
 
 
