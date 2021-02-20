@@ -8,6 +8,7 @@ comments: true
 category: blog
 ---
 
+![Pies](https://morwarid1.github.io/images/Rockbuster/RockBuster.png) 
 
 - Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/RockbusterStealthDataAnalysisProject/Rockbuster) to view the full Tableau Dashboard 
 - Click [here](https://github.com/morwarid1/Rockbuster-Stealth-Data-Analysis-Project) to view my SQL codes on GitHub and more
