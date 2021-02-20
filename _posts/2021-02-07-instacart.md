@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Instacart Grocery Basket Exploratory Analysis 
-#excerpt: "What is a static website generator, and why should I care?"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
+
 ![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
+
+
+
+- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
+- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
 
 
 --------
@@ -84,10 +89,7 @@ Challages | Solutions
 ------------ | -------------
 I had hard time creating new variable | I used loc and aggregation
 
------
 
-- Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/InstacartGroceryBasketAnalysis/Dashboard1) to view the full Tableau Dashboard 
-- Click [here](https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis-Master) to view my Jupyter Notebook on GitHub and more
 
 
 
