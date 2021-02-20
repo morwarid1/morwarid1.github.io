@@ -10,6 +10,8 @@ __Resume__
 
 Proactive Data Analyst with a background in Business Analytics and strong problem-solving, analyzing, and research skills. Experienced in modeling, interpreting, and reporting data. Excellence in working with cross-functional business team to better serve clients in making data-driven decisions. Recognized for maximizing performance by implementing appropriate project analysis.
 
+----------
+
 ## DATA ANALYSIS PROJECTS
 
 __COVID-19 in the US Descriptive Analysis__
@@ -28,6 +30,8 @@ __US Flu Predictive Analysis__
 - Performed data mining on influenza data Forecasted trends to optimize staffing plan of medical agency. 
 - Technical Scope: Excel, Tableau, Data profiling, Statistical Hypothesis Testing, Spatial Analysis, and VLOOPUP.
 
+---------
+
 ## PROFESSIONAL EXPERIENCE
 
 `2019 - present`
@@ -43,6 +47,7 @@ __Merchandise Representativee__, Me to We Corporation
 - Sold ‘Me to We’ products at a merchandise booth.
 - Entered sales data into system at end of each shift.
 
+------------
 
 ## Education
 
@@ -61,7 +66,7 @@ __Project Management Certificate__
 
 Algonquin College
 
-
+-------------
 
 ## Skills
 
@@ -76,23 +81,5 @@ __Tableau:__ Forecasting, Visual Analysis, Storytelling, Visual Hypothesis Testi
 - Project management 
 - GitHub
 
-
-
-
-
-
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
