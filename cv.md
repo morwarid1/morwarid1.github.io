@@ -7,6 +7,8 @@ __Resume__
 (Put a link to download the resume)
 
 <a href="morwarid1.github.io/images/Morwarid_Najafizada_Resume.pdf" target="_blank">PDF.</a>
+
+
 <embed src="morwarid1.github.io/images/Morwarid_Najafizada_Resume.pdf" width="100%" height="850px"/>
 
 
