@@ -24,5 +24,13 @@ A list of my top data analysis projects.
 
 ## Tools used 
 ![data](https://morwarid1.github.io/images/Tools/Anaconda.png)
+![data](https://morwarid1.github.io/images/Tools/DB-Visualizer.png)
+![data](https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png)
+![data](https://morwarid1.github.io/images/Tools/Microsoft-Excel.png)
+![data](https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png)
+![data](https://morwarid1.github.io/images/Tools/pgAdmin4.png)
+![data](https://morwarid1.github.io/images/Tools/Python.png)
+![data](https://morwarid1.github.io/images/Tools/Tableau.png)
+![data](https://morwarid1.github.io/images/Tools/Pandas.png)
 
 Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/) to view the Tableau presentations
