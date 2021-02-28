@@ -23,7 +23,9 @@ A list of my top data analysis projects.
 - US Flu Predictive Analysis
 
 ## Tools used 
-![data](https://morwarid1.github.io/images/Tools/Anaconda.png|width=100) 
+![data](https://morwarid1.github.io/images/Tools/Anaconda.png) 
+<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="48">
+
 ![data](https://morwarid1.github.io/images/Tools/DB-Visualizer.png)
 ![data](https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png)
 ![data](https://morwarid1.github.io/images/Tools/Microsoft-Excel.png)
