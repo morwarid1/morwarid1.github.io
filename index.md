@@ -33,7 +33,7 @@ A list of my top data analysis projects.
 <img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="100">
 <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="100">
 <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="100">
-
+<img src="https://morwarid1.github.io/images/Tools/GitHub.png" width="100">
 
 
 
