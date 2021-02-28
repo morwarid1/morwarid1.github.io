@@ -23,7 +23,6 @@ A list of my top data analysis projects.
 - US Flu Predictive Analysis
 
 ## Tools used 
-
-
+![data](https://morwarid1.github.io/images/Tools/Anaconda.png)
 
 Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/) to view the Tableau presentations
