@@ -5,11 +5,11 @@ return [
         'prefix' => '[Contact Form]'
     ],
     'emails' => [
-        'to'   => '',
-        'from' => ''
+        'to'   => '', // Email address to receive emails via the form.
+        'from' => '' // A valid email address - the domain should be the same as where the form is hosted.
     ],
     'messages' => [
-        'error'   => 'There was an error sending your message, please try again later.',
+        'error'   => 'There was an error sending, please try again later.',
         'success' => 'Your message has been sent successfully.'
     ],
     'fields' => [
