@@ -25,7 +25,7 @@ A list of my top data analysis projects.
 ## Tools used 
 
 
-<img src="https://morwarid1.github.io/images/Tools/GitHub.png" width="100"> 
+<img src="https://morwarid1.github.io/images/Tools/Github.png" width="100"> 
 <img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="100">
 <img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="100">
 <img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="100">
