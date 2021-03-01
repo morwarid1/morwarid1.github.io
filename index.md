@@ -22,9 +22,9 @@ A list of my top data analysis projects.
 - Rockbuster Stealth Data Analysis Project
 - US Flu Predictive Analysis
 
+## Tools Used
 
-
-Tools used | | |
+ | | |
 ---------------| ----------------- |----------------|
 <img src="https://morwarid1.github.io/images/Tools/Github.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="50">|
 GitHub | Jupyter Notebook |pgAdmin4 |
