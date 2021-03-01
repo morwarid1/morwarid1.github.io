@@ -1,5 +1,4 @@
 ---
 layout: presentation-post-index
-title: Projects
-excerpt: "Recent Presentations"
+title: Contact Me
 ---
