@@ -27,9 +27,9 @@ A list of my top data analysis projects.
  -|-|-|-|-|
 ---------------| ----------------- |----------------|------------|------|
 <img src="https://morwarid1.github.io/images/Tools/Github.png" width="50">| <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="50">|<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="50"> |
-GitHub | Jupyter |pgAdmin4 |M Excel | Tableau |
+GitHub | Jupyter |pgAdmin4 | Excel | Tableau |
 <img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="50">| <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Python.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="50"> | 
-Anaconda | Pandas | M Powerpoint | Python | DB Visualizer |
+Anaconda | Pandas | Powerpoint | Python | DB Visualizer |
  
 
 
