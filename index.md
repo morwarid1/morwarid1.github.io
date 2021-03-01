@@ -24,17 +24,13 @@ A list of my top data analysis projects.
 
 ## Tools Used 
 
- -|-|-|-|
----------------| ----------------- |----------------|------------|
-<img src="https://morwarid1.github.io/images/Tools/Github.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="50">|<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="50"> | 
-GitHub | Jupyter Notebook |pgAdmin4 |Microsoft Excel |
-<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Python.png" width="50"> |
-Anaconda | Pandas | Microsoft Powerpoint | Python |
-<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="50"> |
-DB Visualizer | Tableau | 
-
-
-
+ -|-|-|-|-|
+---------------| ----------------- |----------------|------------|------|
+<img src="https://morwarid1.github.io/images/Tools/Github.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="50">|<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="50"> |
+GitHub | Jupyter Notebook |pgAdmin4 |Microsoft Excel | Tableau |
+<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/Python.png" width="50"> |<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="50"> | 
+Anaconda | Pandas | Microsoft Powerpoint | Python | DB Visualizer |
+ 
 
 
 
