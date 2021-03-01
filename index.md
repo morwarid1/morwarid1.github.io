@@ -24,15 +24,15 @@ A list of my top data analysis projects.
 
 Tools used |------------|
 ----------------------------------------------------------------------------| -------------------------------------------------------------------------------- |
-<img src="https://morwarid1.github.io/images/Tools/Github.png" width="100"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="100"> |
+<img src="https://morwarid1.github.io/images/Tools/Github.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="200"> |
 GitHub | Jupyter Notebook |
-<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="100"> | <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="100">
+<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="200">
 Anaconda | Pandas |
-<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="100"> | <img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="100"> |
+<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="200"> |
 DB Visualizer | Tableau |
-<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="100"> | <img src="https://morwarid1.github.io/images/Tools/Python.png" width="100"> |
+<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Python.png" width="200"> |
 Microsoft Excel | Python 
-<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="100"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="100">|
+<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="200">|
 Microsoft Powerpoint | pgAdmin4 |
 
 
