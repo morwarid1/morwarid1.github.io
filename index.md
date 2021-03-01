@@ -24,7 +24,7 @@ A list of my top data analysis projects.
 
 Tools used |------------|
 ----------------------------------------------------------------------------| -------------------------------------------------------------------------------- |
-<img src="https://morwarid1.github.io/images/Tools/Github.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="200"> |
+<img src="https://morwarid1.github.io/images/Tools/Github.png" width="50"> | <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="200"> |
 GitHub | Jupyter Notebook |
 <img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="200"> | <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="200">
 Anaconda | Pandas |
