@@ -2,9 +2,10 @@
 
 title: Morwarid Najafizada
 locale: en_US
-logo: <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="200">
+logo: ![](images/bio-photo.jpg)
 
-# ![](images/bio-photo.jpg)
+# <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="200">
+
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Morwarid Najafizada
