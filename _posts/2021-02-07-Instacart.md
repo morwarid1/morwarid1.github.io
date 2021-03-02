@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instacart Grocery Basket Exploratory Analysis
-excerpt: "Python & Writing Reports?"
+excerpt: "Python & Writing Reports"
 modified: 2/27/2021, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
