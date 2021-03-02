@@ -2,7 +2,6 @@
 layout: resume
 ---
 
-### Resume
 
 {% raw %}
 <button onclick="window.open('/images/Morwarid_Najafizada_Resume.pdf')">Resume</button>
