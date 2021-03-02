@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-### Relational Database Management System
+
 ![Pies](https://morwarid1.github.io/images/Rockbuster/RDMS.png) 
 
 - Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/RockbusterStealthDataAnalysisProject/Rockbuster) to view the full Tableau Dashboard 
