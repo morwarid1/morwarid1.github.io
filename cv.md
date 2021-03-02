@@ -4,7 +4,6 @@ layout: resume
 
 __Resume__
 
-(Put a link to download the resume)
 
 
 {% raw %}
@@ -12,6 +11,9 @@ __Resume__
 {% endraw %}
 
 
+{% raw %}
+<button onclick="window.open('/images/Morwarid_Najafizada_Resume.pdf')">Resume</button>
+{% endraw %}
 
 
 ## PROFESSIONAL SUMMARY
