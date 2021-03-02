@@ -19,7 +19,7 @@ category: blog
 --------
 ### Context 
 
-Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. 
+Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. 
 
 -----------
 ### Objectives
@@ -29,7 +29,7 @@ My goal as a data analyst is to create a targeted marketing strategy by answerin
 
 Key Questions from Sales and Marketing team |
 ---------------------------------------------------|
-What is the busiest days of the week and hours of the day are? |
+What are the busiest days of the week and hours of the day are? |
 Times of the day when people spend the most money. |
 Which departments have the highest frequency of product orders? |
 What are the different types of customers in the system and how their ordering behaviors differ? |
@@ -63,21 +63,21 @@ Regular Customers | Customers with highest ordering habits |
 -----------
 ### Recomendations
 
-Saturaday, Sunday, and Friday are the busiest days of the week. I recommend to have more products avaiable at these days for the large number of purchases. On the other hand, I recommend doing more marketing at the days with fewest orders. This way the company can attract new customers. 
+Saturday, Sunday, and Friday are the busiest days of the week. I recommend having more products available for a large number of purchases. On the other hand, I recommend doing more marketing on the days with the fewest orders. This way the company can attract new customers. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
 ![Pies](https://morwarid1.github.io/images/instacart_images/symbols.png) 
 
 
-Betwee 3:00 pm to 5:00 pm are the busiest hour of the day. I recommend the marketing team should target to have more customers at morning hours. 
+Between 3:00 pm to 5:00 pm are the busiest hours of the day. I recommend the marketing team should target to have more customers at morning hours. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/avgspent_loyalcust.png) 
 
 
-Produce and dairy eggs department has the highest number of orders. I recommend promoting the dapartments that are less popular in the marketing adds such as: bulk,pets, international, and babies department. 
+The produce and dairy eggs department has the highest number of orders. I recommend promoting the departments that are less popular in the marketing ads such as bulk, pets, international, and babies department. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/depart_ord.png) 
 
 
 Ordering behaviors of customers differ based on the number of products they order.
-We have 3 types of customers. I recommend the marketing team to give extra promotions and discounts to the new Customers. This can encourage them to order more oftern. 
+We have 3 types of customers. I recommend the marketing team to give extra promotions and discounts to the new Customers. This can encourage them to order more often. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/loyaly_flag.png) 
 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_Customers.png) 
@@ -86,13 +86,12 @@ We have 3 types of customers. I recommend the marketing team to give extra promo
 
 -------------
 
-Challages | Solutions
+Challenges | Solutions
 ------------ | -------------
-I had hard time creating new variable | I used loc and aggregation
+I had a hard time creating a new variable | I used loc and aggregation
 
 
 
 
 
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
