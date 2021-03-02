@@ -18,7 +18,7 @@ category: blog
 
 Sample of my queries done in SQL  | 
 ------------ | 
-Common Table Expression (CTE) | 
+Common Table Expression (CTE) |
 Joining Tables | 
 Subqueries |
 
