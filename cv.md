@@ -3,9 +3,11 @@ layout: resume
 ---
 
 
+
 {% raw %}
-<button onclick="window.open('/images/Morwarid_Najafizada_Resume.pdf')">Download_Resume</button>
+<button onclick="window.open('/images/Resume.pdf')">Resume</button>
 {% endraw %}
+
 
 
 ## PROFESSIONAL SUMMARY
