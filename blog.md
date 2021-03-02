@@ -1,4 +1,4 @@
 ---
-layout: post-index
+layout: page
 title: All Four Projects
 ---
