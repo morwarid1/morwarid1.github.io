@@ -7,6 +7,12 @@ __Resume__
 (Put a link to download the resume)
 
 
+{% raw %}
+<button onclick="window.open('/books/book.pdf')">Download</button>
+{% endraw %}
+
+
+
 ## PROFESSIONAL SUMMARY
 
 Proactive Data Analyst with a background in Business Analytics and strong problem-solving, analyzing, and research skills. Experienced in modeling, interpreting, and reporting data. Excellence in working with cross-functional business team to better serve clients in making data-driven decisions. Recognized for maximizing performance by implementing appropriate project analysis.
