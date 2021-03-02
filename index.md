@@ -3,8 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-`“The goal is to turn data into information and information into insight.”`
-
+`“THE GOAL IS TO TURN DATA INTO INFORMATION AND INFORMATION INTO INSIGHT.”`
 
 ![data](https://morwarid1.github.io/images/data-analytics.jpg)
 
