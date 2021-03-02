@@ -8,9 +8,10 @@ __Resume__
 
 
 {% raw %}
-<button onclick="window.open('/books/book.pdf')">Download</button>
+<button onclick="window.open('/images/book.pdf')">Download</button>
 {% endraw %}
 
+![covidbk](https://morwarid1.github.io/images/C19-back.png)
 
 
 ## PROFESSIONAL SUMMARY
