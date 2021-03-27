@@ -59,13 +59,16 @@ __Merchandise Representativee__, Me to We Corporation
 
 ## Education
 
-`2021`
+`Feb 2021`
 __Data Immersion Certificate__, Career Foundry
 
 `2018 – 2021`
 __Bachelor of Business Analytics__, University of Ottawa
 
-`2017`
+`May 2020`
+__Introduction to Python for Data Science course__, edX
+
+`Aug 2017`
 __Project Management Certificate__, Algonquin College
 
 -------------
