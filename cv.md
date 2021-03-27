@@ -48,13 +48,17 @@ __Data Analyst__, UN Association in Canada
 - Maintain data in Raiser’s Edge Database Management System (DBMS) including updating contacts and gift donations.
 - Oversee distribution of monthly newsletter including validating distribution list and reviewing articles. 
 
-
 `2016 - 2017`
 __Merchandise Representativee__, Me to We Corporation
 
 - Sold ‘Me to We’ products at a merchandise booth.
 - Entered sales data into system at end of each shift.
 
+`2016 - 2017`
+__Match Tutor__, Algonquin College
+
+- Helped tutees with their course material in one-on-one service.
+- Guided students to the right supplemental learning materials.
 ------------
 
 ## Education
