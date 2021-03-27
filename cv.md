@@ -38,7 +38,7 @@ __US Flu Predictive Analysis__, CareerFoundry
 - Performed data mining on influenza data Forecasted trends to optimize staffing plan of medical agency. 
 - Technical Scope: Excel, Tableau, Data profiling, Statistical Hypothesis Testing, Spatial Analysis, and VLOOPUP.
 
----------
+----------
 
 ## PROFESSIONAL EXPERIENCE
 
