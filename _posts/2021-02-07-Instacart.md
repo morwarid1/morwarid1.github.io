@@ -24,10 +24,10 @@ Instacart is an online grocery store that operates through an app. They want to 
 -----------
 ### Objectives
 
-My goal as a data analyst is to create a targeted marketing strategy by answering the questions of sales and Marketing team.
+My goal as a data analyst is to create a targeted marketing strategy by answering the questions of the sales and marketing team.
 
 
-Key Questions from Sales and Marketing team |
+Key Questions from the Sales and Marketing team |
 ---------------------------------------------------|
 What are the busiest days of the week and hours of the day are? |
 Times of the day when people spend the most money. |
@@ -48,7 +48,7 @@ Data preparation | Analyzing data |  Visualization of the data |
 Cleaned the orders.csv, products.csv,customers.csv, and department.csv datasets | Conducted descriptive analysis | Line Chart, Bar Chart |
 Subsetting, consistency checks, combining and exporting data, deriving new variables | Cluster Analysis | Clustering, scatterplot |
 
-### Data Cleaning Process shown in order
+### Data Cleaning Process is shown in order
 -----
 ![Pies](https://morwarid1.github.io/images/instacart_images/population_flow.png) 
 
@@ -58,10 +58,10 @@ Customer Habits |  |
 3:00 pm to 5:00 pm  |  busiest hours of the day | 
 Saturday, Sunday, Friday | busiest days of the week |
 Produce and dairy eggs | Popular Departments |
-Regular Customers | Customers with highest ordering habits | 
+Regular Customers | Customers with the highest ordering habits | 
 
 -----------
-### Recomendations
+### Recommendations
 
 Saturday, Sunday, and Friday are the busiest days of the week. I recommend having more products available for a large number of purchases. On the other hand, I recommend doing more marketing on the days with the fewest orders. This way the company can attract new customers. 
 ![Pies](https://morwarid1.github.io/images/instacart_images/C_order_hour_bar.png) 
