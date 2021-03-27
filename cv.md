@@ -59,6 +59,8 @@ __Match Tutor__, Algonquin College
 
 - Helped tutees with their course material in one-on-one service.
 - Guided students to the right supplemental learning materials.
+
+
 ------------
 
 ## Education
