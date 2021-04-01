@@ -24,7 +24,7 @@ Instacart is an online grocery store that operates through an app. They want to 
 -----------
 ### Objectives
 
-My goal as a data analyst is to create a targeted marketing strategy by answering the questions of the sales and marketing team.
+My goal as a Aata Analyst is to create a targeted marketing strategy by answering the questions of the sales and marketing team.
 
 
 Key Questions from the Sales and Marketing team |
