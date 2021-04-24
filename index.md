@@ -26,9 +26,9 @@ I have volunteered in different organizations. I was applauded for being a detai
 
  --|--|--|--|--|
 ---------------| ----------------- |----------------|------------|------|
-<img src="https://morwarid1.github.io/images/Tools/Github.png" width="40">| <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="25"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="25">|<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="25"> |<img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="25"> |
+<img src="https://morwarid1.github.io/images/Tools/Github.png" width="40">| <img src="https://morwarid1.github.io/images/Tools/Jupyter-Notebook.png" width="40"> | <img src="https://morwarid1.github.io/images/Tools/pgAdmin4.png" width="40">|<img src="https://morwarid1.github.io/images/Tools/Microsoft-Excel.png" width="40"> |<img src="https://morwarid1.github.io/images/Tools/Tableau.png" width="40"> |
 GitHub | Jupyter |pgAdmin4 | Excel | Tableau |
-<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="25">| <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="25"> |<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="25"> |<img src="https://morwarid1.github.io/images/Tools/Python.png" width="25"> |<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="25"> | 
+<img src="https://morwarid1.github.io/images/Tools/Anaconda.png" width="40">| <img src="https://morwarid1.github.io/images/Tools/Pandas.png" width="40"> |<img src="https://morwarid1.github.io/images/Tools/Microsoft-Powerpoint.png" width="40"> |<img src="https://morwarid1.github.io/images/Tools/Python.png" width="40"> |<img src="https://morwarid1.github.io/images/Tools/DB-Visualizer.png" width="40"> | 
 Anaconda | Pandas | Powerpoint | Python | DB Visualizer |
  
 
