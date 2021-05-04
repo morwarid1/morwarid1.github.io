@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instacart Grocery Basket Exploratory Analysis
-excerpt: "Python & Writing Reports"
+excerpt: "Python & Writing Reports:Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. My rule as a data analyst is to perform an initial data exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation based on the provided criteria. The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database."
 modified: 2/27/2021, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
