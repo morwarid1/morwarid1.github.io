@@ -29,7 +29,7 @@ Subqueries |
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
 the Rockbuster Stealth management team is planning to use its existing movie licenses to
-launch an online video rental service in order to stay competitive.The main purpose of this sample project is to launch a strategy for the new online video rental service. This project will help to better understand the Rockbuster Database and have better insight for future Rockbuster product investments. My rule as a data analyst is to help with the launch of the strategy by answering any ad-hoc business questions that other department might have. My first task will be loading all of the Rockbuster's data into a relational database management system (RDBMS). Rockbuster data set contains information about Rockbuster's film, inventory, customers, and payments, among other things.
+launch an online video rental service in order to stay competitive. The main purpose of this sample project is to launch a strategy for the new online video rental service. This project will help to better understand the Rockbuster Database and have better insight for future Rockbuster product investments. My rule as a data analyst is to help with the launch of the strategy by answering any ad-hoc business questions that other department might have. My first task will be loading all of the Rockbuster's data into a relational database management system (RDBMS). Rockbuster data set contains information about Rockbuster's film, inventory, customers, and payments, among other things.
 
 
 ---------------------------------
