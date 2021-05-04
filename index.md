@@ -9,7 +9,7 @@ excerpt: "About Me..."
 
 ![data](https://morwarid1.github.io/images/bio-photo.jpg)
 
-<img src="https://morwarid1.github.io/images/bio-photo.jpg" width="80">
+<img src="https://morwarid1.github.io/images/bio-photo.jpg" width="20">
 
 
 #### About Me
