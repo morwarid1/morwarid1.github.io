@@ -12,7 +12,7 @@ excerpt: "About Me..."
  
  
 <div style="float: right">
-    [ <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="400"> ]
+    <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="400">
 </div>
     
     
