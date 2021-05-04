@@ -38,8 +38,7 @@ Anaconda | Pandas | Powerpoint | Python | DB Visualizer |
         <h2>Get in Touch</h2>
         
 Send me a message and I'll get back to you as soon as possible   
-        
- <div id="contact-form">
+         <div id="contact-form">
                 <form action="https://formspree.io/mpzyqdng" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
