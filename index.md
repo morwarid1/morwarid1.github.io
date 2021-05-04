@@ -15,13 +15,6 @@ My name is Morwarid Najafizada. I am a self-directed certified Data Analyst from
 
 I have volunteered in different organizations. I was applauded for being a detail-oriented and innovative employee. Now, I am ready to contribute my skills as a passionate Data Analyst to make data-driven decisions and add value for the cross-functional business teams. 
 
-#### Projects
-
-- COVID-19 in the US Descriptive Analysis
-- Instacart Grocery Basket Exploratory Analysis 
-- Rockbuster Stealth Data Analysis Project
-- US Flu Predictive Analysis
-
 #### Tools Used 
 
  --|--|--|--|--|
