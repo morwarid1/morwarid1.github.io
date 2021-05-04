@@ -35,7 +35,7 @@ Anaconda | Pandas | Powerpoint | Python | DB Visualizer |
 
 
 <div id="contact">
-        <h2>####Get in Touch</h2>
+        <h2>Get in Touch</h2>
         
 Send me a message and I'll get back to you as soon as possible   
          <div id="contact-form">
