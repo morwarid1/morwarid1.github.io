@@ -11,14 +11,9 @@ excerpt: "About Me..."
 </p>
  
  
- <style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
+<div style="float: right">
+    ![ <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="400"> ](http://placehold.it/85x85 "Title")
+</div>
     
     
 #### About Me
