@@ -13,7 +13,7 @@ excerpt: "About Me..."
 ## About Me
 My name is Morwarid Najafizada. I am a self-directed certified Data Analyst from CareerFoundry boot camp. I am a 4th-year Business Analytics student at the Telfer school of management. I call myself a passionate Data Analyst because I love problem-solving, analyzing, and researching data. I love this field because it allows me to be creative with the data and create my interpretation of the data. I find the process very engaging and satisfactory because I get to showcase my result at the end.
 
-I have volunteered in different organizations. I was applauded for being a detail-oriented and innovative employee. Now, I am ready to contribute my skills as a passionate Data Analyst to a professional services firm to make data-driven decisions and add value for the cross-functional business teams. 
+I have volunteered in different organizations. I was applauded for being a detail-oriented and innovative employee. Now, I am ready to contribute my skills as a passionate Data Analyst to make data-driven decisions and add value for the cross-functional business teams. 
 
 ## Projects
 
