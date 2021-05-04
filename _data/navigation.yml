@@ -1,15 +1,16 @@
 # Site navigation links
 - title: about me
   url: /
+  
+- title: Portfolio
+  url: /blog/
 
+- title: Resume
+  url: /cv/
+  
 - title: Contact Me
   url: /presentations/
   
-- title: Resume
-  url: /cv/
-
-- title: Portfolio
-  url: /blog/
 
 ##- title: Workshops
 ##  url: /workshops/
