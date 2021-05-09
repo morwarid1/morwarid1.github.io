@@ -42,7 +42,7 @@ __US Flu Predictive Analysis__, CareerFoundry
 
 ## PROFESSIONAL EXPERIENCE
 
-`2019 - present`
+`2019 - 2021`
 __Data Entry Clerk__, UN Association in Canada 
 
 - Administered the “Ambassador’s Circle” monthly giving program by tracking and processing monthly changes.
