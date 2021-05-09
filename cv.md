@@ -5,7 +5,7 @@ layout: resume
 
 
 {% raw %}
-<button onclick="window.open('/images/Morwarid-Najafizada-Resume.pdf')">Resume</button>
+<button onclick="window.open('/images/Morwarid_Najafizada_Resume.pdf')">Resume</button>
 {% endraw %}
 
 
