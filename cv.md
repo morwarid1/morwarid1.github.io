@@ -37,7 +37,7 @@ __Research Assistant__, University of Ottawa
 - Collaborated with the rest of the research team to write and build customized interactive reports and dashboards.
 
 `2016 - 2017`
-__Match Tutor__, Algonquin College
+__Math Tutor__, Algonquin College
 
 - Helped tutees with their course material in one-on-one service.
 - Guided students to the right supplemental learning materials.
