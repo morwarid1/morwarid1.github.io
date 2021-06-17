@@ -12,7 +12,7 @@ layout: resume
 
 ## PROFESSIONAL SUMMARY
 
-Proactive Data Analyst with a background in Business Analytics. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Excellence in working with cross-functional business teams to better serve clients in making data-driven decisions. Recognized for maximizing performance by implementing appropriate project analysis.
+Data Analyst with three years of experience working with data. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Recognized for maximizing performce by implementing appropriate project analysis. Highly educated, possessing a Bachelor's Degree in Business Analytics and professional Certificate in Data Analytics and Data Immersion.  
 
 ----------
 
