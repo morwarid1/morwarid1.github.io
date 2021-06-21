@@ -100,16 +100,6 @@ __Project Management Certificate__, Algonquin College
 
 ## Skills
 
-__Python:__ Deriving variables, Descriptive Analysis, Data wrangling, Data Cleaning, Visualizations with Python Libraries. 
-
-__Excel:__ MS Office, Pivot Tables, Data Cleaning, Data Integration, Data Transformation, Statistical Hypothesis, VLOOKUP. 
-
-__Database & SQL:__ Analyzing Relational Database, Database Querying, Filtering, Cleaning and Summarizing, Joining the Tables, Subquery, Common Table Expressions.
-
-__Tableau:__ Forecasting, Visual Analysis, Storytelling, Visual Hypothesis Testing, Presenting Results, Dashboards.
-
-
-### SKILLS 
 - __Languages:__ Python, SQL, R,
 - __Tools & Techniques:__ Tableau, Excel, Data Analysis, Quality assurance, Data Manipulation, Data Pipeline, Data Quality, Data Visualization, Data Mining, ETL, Databases, Relational Databases, Data Warehouse, Business Intelligence, Pandas, Numpy, Scikit Learn, Big Data Analytics, A/B testing, Power BI. Presentation Skills.
 - __Algorithms:__ Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, K-Means, Decision Trees, Logistic Regression, Linear Regression
