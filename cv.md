@@ -106,7 +106,7 @@ __Tableau:__ Forecasting, Visual Analysis, Storytelling, Visual Hypothesis Testi
 
 
 ### SKILLS 
-__Languages:__ Python, SQL, R,
-__Tools & Techniques:__ Tableau, Excel, Data Analysis, Quality assurance, Data Manipulation, Data Pipeline, Data Quality, Data Visualization, Data Mining, ETL, Databases, Relational Databases, Data Warehouse, Business Intelligence, Pandas, Numpy, Scikit Learn, Big Data Analytics, A/B testing, Power BI. Presentation Skills.
-__Algorithms:__ Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, K-Means, Decision Trees, Logistic Regression, Linear Regression
+- __Languages:__ Python, SQL, R,
+- __Tools & Techniques:__ Tableau, Excel, Data Analysis, Quality assurance, Data Manipulation, Data Pipeline, Data Quality, Data Visualization, Data Mining, ETL, Databases, Relational Databases, Data Warehouse, Business Intelligence, Pandas, Numpy, Scikit Learn, Big Data Analytics, A/B testing, Power BI. Presentation Skills.
+- __Algorithms:__ Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, K-Means, Decision Trees, Logistic Regression, Linear Regression
 
