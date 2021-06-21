@@ -12,39 +12,29 @@ layout: resume
 
 ## PROFESSIONAL SUMMARY
 
-Data Analyst with three years of experience working with data. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Recognized for maximizing performce by implementing appropriate project analysis. Highly educated, possessing a Bachelor's Degree in Business Analytics and professional Certificate in Data Analytics and Data Immersion.  
+Data Analyst with three years of experience working with data. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Recognized for maximizing performance by implementing and managing appropriate project analysis. Highly educated, possessing a Bachelor’s Degree in Business Analytics and a Professional Certificate in Data Analytics and Data Immersion.
 
 ----------
 
 ## PROFESSIONAL EXPERIENCE
 
-`2019 - 2021`
+`2019 - Present`
 __Data Entry Clerk__, UN Association in Canada 
 
-- Administered the “Ambassador’s Circle” monthly giving program by tracking and processing monthly changes.
-- Grew a number of sponsors and donors by assisting with research, including the capture of information in the appropriate database.
-- Maintained the Email distribution list for the monthly newsletter and managed information and article for each issue.
-- Prepared prompt, personal, and professional correspondence and receipts to donors, event participants, and sponsors.
-- Prepared regular reports and data exports, including tax receipts, gift acknowledgments, membership lists, etc.
-- Processed contact and gift donation into Raiser’s Edge.
+- Expanded the portfolio of sponsors by tracking and processing monthly changes and troubleshooting in the database.
+- Generated regular reports and data exports, including tax receipts, gift acknowledgments, and membership lists.
+- Processed contact and gift donation into Raiser’s Edge a fundraising and constituent relationship management (CRM) system and saved the department 30 hours of manual work each week.
+- Grew 20+ sponsors and donors by assisting with research, including the capture of information in the appropriate database.
 
-`2018 - 2020`
+`2018 - 2019`
 __Research Assistant__, University of Ottawa 
 
-- Assisted the research team in data collection functions using qualitative and quantitative strategies.
-- Analyzed and investigated relevant research datasets.
-- Assisted Professor and the research team in projects applying data mining techniques to our dataset.
+- Spearheaded the research team in data collection functions using qualitative and quantitative strategies.
+- Oversaw the research team on data cleansing, managing, and visualizing.
+- Analyzed and investigated relevant research datasets from 15+ public data sources.
+- Assisted Professor and the research team of 10+ in projects applying data mining techniques and data integrity methods to our datasets.
+- Conducted research projects using qualitative research methods such as content analysis of primary and secondary resources.
 - Collaborated with the rest of the research team to write and build customized interactive reports and dashboards.
-
-`2016 - 2017`
-__Math Tutor__, Algonquin College
-
-- Helped tutees with their course material in one-on-one service.
-- Guided students to the right supplemental learning materials.
-- Led a team of five other new tutors
-- Attended scheduled staff meetings.
-- Recorded and reported student progress, increased students’ performance by 15-20%
-- Ensured cleanliness of library and computers are shut down after the completion of activities.
 
 
 ------------
@@ -52,23 +42,37 @@ __Math Tutor__, Algonquin College
 
 `Feb 2021`
 __COVID-19 in the US Descriptive Analysis__, CareerFoundry
-- Created an interactive dashboard and applied machine learning techniques to COVID-19 data to prevent the further spread of this virus. 
-- Technical Scope:Scikit-learn, Stats models API, Seaborn, Machine Learning Regression, Clustering, and Time series Analysis.
+- Conducted an ad-hoc descriptive analysis of US COVID-19 metadata to find which states need urgent vaccinations and medical services.
+- Build a Linear Regression model to predict the number of deaths in the upcoming season.
+- Segmented the COVID-19 cases into different clusters to define vaccination strategy based on their age group and states.
+- Identified the top 10 states for the urgent need of vaccinations and presented the result in dashboards and Excel reports.
+- Technical Scope: scikit-learn, Stats Models API, Seaborn, MLR, Clustering, and Time-series Analysis.
 
 `Dec 2020`
 __Instacart Grocery Basket Exploratory Analysis__, CareerFoundry
-- Conducted an exploratory analysis on “Instacart Online Grocery Shopping Dataset 2017”to derive insights and suggest strategies for better segmentation. 
-- Technical Scope: Pandas, NumPy, Matplotlib, OS, SciPy, and Pickle Module.
+-Performed exploratory analysis in Store’s historical data of customers to derive insights and suggest strategies to better segmentation using Jupyter Notebooks and the Anaconda libraries manager.
+- Analyzed different types of customers and created exclusion flags based on their loyalty, Region, age and family status, and demographic classification.
+- Wrangled, aggregated, and merged the large datasets to achieve better insights and avoid potential risks.
+- Identified days of the week, types of customers, top 5 products, and regions that need better marketing strategies.
+- Generated the result in reports and dashboards to communicate insights to stakeholders.
+- Technical Scope: Pandas, NumPy, Matplotlib, OS, seaborn, and SciPy.
+
 
 `Sep 2020`
 __Rockbuster Stealth Data Analysis Project__, CareerFoundry
-- Loaded all data into a relational database management system and performed advanced SQL techniques such as common table expression or data extraction to launch strategy for the new online video rental service.
+- launched a strategy for the new online video rental service using advanced SQL techniques such as common table expression, joining tables, data extraction, and build ETL Pipeline.
+- Loaded all of Rockbuster’s data into a relational database management system, then used SQL to analyze the data and
+answered any ad-hoc business questions the management board had.
+- Presented the SQL results to the business manager by creating compelling dashboard stories and reports.
 - Technical Scope: Tableau, GitHub, RDBMS, Db Visualizer, and Data Dictionary.
 
 `Jun 2020`
 __US Flu Predictive Analysis__, CareerFoundry
-- Performed data mining on influenza data Forecasted trends to optimize staffing plan of medical agency. 
-- Technical Scope: Excel, Tableau, Data profiling, Statistical Hypothesis Testing, Spatial Analysis, and VLOOPUP.
+- Provided information to support a staffing plan, detailing what can help inform the timing and spatial distribution of medical
+personnel throughout the United States.
+- Determined whether influenza occurs seasonally or throughout the entire year using Pivot Table
+- Presented the conclusions, recommendations, and proposed next steps in final presentations and reports.
+- Technical Scope: Excel, Tableau, Data Profiling, Statistical Hypothesis Testing, Spatial Analysis, and VLOOPUP.
 
 
 ## Education
@@ -78,6 +82,9 @@ __Data Immersion Certificate__, Career Foundry
 
 `2018 – 2021`
 __Bachelor of Business Analytics__, University of Ottawa
+
+`June 2021`
+__Data Analytics Certificate__, Career Foundry
 
 `May 2020`
 __Introduction to Python for Data Science course__, edX
@@ -98,6 +105,8 @@ __Database & SQL:__ Analyzing Relational Database, Database Querying, Filtering,
 __Tableau:__ Forecasting, Visual Analysis, Storytelling, Visual Hypothesis Testing, Presenting Results, Dashboards.
 
 
-
-
+### SKILLS 
+__Languages:__ Python, SQL, R,
+__Tools & Techniques:__ Tableau, Excel, Data Analysis, Quality assurance, Data Manipulation, Data Pipeline, Data Quality, Data Visualization, Data Mining, ETL, Databases, Relational Databases, Data Warehouse, Business Intelligence, Pandas, Numpy, Scikit Learn, Big Data Analytics, A/B testing, Power BI. Presentation Skills.
+__Algorithms:__ Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, K-Means, Decision Trees, Logistic Regression, Linear Regression
 
