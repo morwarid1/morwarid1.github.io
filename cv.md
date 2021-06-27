@@ -12,7 +12,7 @@ layout: resume
 
 ## PROFESSIONAL SUMMARY
 
-Data Analyst with three years of experience working with data. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Recognized for maximizing performance by implementing and managing appropriate project analysis. Highly educated, possessing a Bachelor’s Degree in Business Analytics and a Professional Certificate in Data Analytics and Data Immersion.
+Data Analyst with three years of experience working with data. Strong problem-solving, analyzing, and researching skills. Experienced in modeling, interpreting, and reporting data. Recognized for maximizing performance by implementing and managing appropriate project analysis. 
 
 ----------
 
@@ -83,24 +83,36 @@ personnel throughout the United States.
 
 `Feb 2021`
 __Data Immersion Certificate__, Career Foundry
+- Storytelling, SQL, Python, Data Ethics, Advanced Analytics and Dashboard Design. 
 
 `2018 – 2021`
 __Bachelor of Business Analytics__, University of Ottawa
+- Business Simulation Analytics, Business Forecasting Analytics, Business Optimization Analytics, Application of Business Analytics. 
 
 `June 2021`
 __Data Analytics Certificate__, Career Foundry
+- Hypothesis & Statistical Analysis, Data Wrangling 
 
-`May 2020`
-__Introduction to Python for Data Science course__, edX
-
-`Aug 2017`
-__Project Management Certificate__, Algonquin College
 
 -------------
 
 ## Skills
 
-- __Languages:__ Python, SQL, R,
-- __Tools & Techniques:__ Tableau, Excel, Data Analysis, Quality assurance, Data Manipulation, Data Pipeline, Data Quality, Data Visualization, Data Mining, ETL, Databases, Relational Databases, Data Warehouse, Business Intelligence, Pandas, Numpy, Scikit Learn, Big Data Analytics, A/B testing, Power BI. Presentation Skills.
-- __Algorithms:__ Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, K-Means, Decision Trees, Logistic Regression, Linear Regression
+- SQL
+- Python (Pandas, Geopandas, Numpy, Sci-Kit, Matplotlib, Seaborn) 
+- Interractive dashboards
+- Tableau dashboards
+- Power BI reports
+- Data Analytics
+- Data Modeling
+- Data Transformation
+- Data Visualizations 
+- MS Excel
+- Business Requirements
+- Hypothesis testing
+- Machine Learning 
+- Linear Regression Analysis
+- Data quality & integrity checks 
+- Data mining and wrangling 
+
 
