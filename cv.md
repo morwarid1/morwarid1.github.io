@@ -108,11 +108,10 @@ __Data Analytics Certificate__, Career Foundry
 - Data Transformation
 - Data Visualizations 
 - MS Excel
-- Business Requirements
+- Business Requirements 
 - Hypothesis testing
 - Machine Learning 
 - Linear Regression Analysis
 - Data quality & integrity checks 
 - Data mining and wrangling 
-
 
