@@ -19,13 +19,14 @@ Data Analyst with three years of experience working as Data Analyst. Strong prob
 ## PROFESSIONAL EXPERIENCE
 
 `Sep 2018 - Present`
-__Data Performance Analyst__, StoragteVault Canada Inc
+__Data Analyst__, StoragteVault Canada Inc
 
 - Successfully interpreted data to draw conclusions for managerial action and strategy.
-- Designed and interpreted key performance indicators and analytical models driving channel strategy and productivity.
-- Build and maintained performance models and reports as well as communicated the results and recommendations to the leadership team.
-- Created static and ad-hoc deliverables to communicate performance and increased efficiency.
+- Used statistical techniques for hypothesis testing to validate data and interpretations.
+- Build reports and communicated the results and recommendations to the leadership team.
+- Created static and ad-hoc deliverables to communicate performance and increased efficiency by 30%.
 - Designed, coded, tested, maintained, and documented dashboard visualizations.
+
 
 `June 2015 - Sep 2018`
 __Data Entry Clerk__, UN Association in Canada 
