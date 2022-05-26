@@ -7,9 +7,7 @@ excerpt: "About Me..."
 
 “THE GOAL IS TO TURN DATA INTO INFORMATION AND INFORMATION INTO INSIGHT.”
 
-<div style="float: right">
-    <img src="https://morwarid1.github.io/images/bio-photo.jpg" width="400">
-</div>
+
     
     
 #### About Me
