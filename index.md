@@ -11,9 +11,13 @@ excerpt: "About Me..."
     
     
 #### About Me
-My name is Morwarid Najafizada. I am a self-directed certified Data Analyst from CareerFoundry boot camp with Bachelor's Degree in Business Analytics from Telfer School of Management, University of Ottawa. I call myself a passionate Data Analyst because I love problem-solving, analyzing, and researching data. I love this field because it allows me to be creative with the data. I find the process very engaging and satisfactory because I get to showcase my result at the end. I am experienced in machine learning, supervised and unsupervise algorithms and use data visualization techniques to present the results. I use SQL, Python, and Tableau for my data projects. 
+I am Morwarid Najafizada, a certified Data Analyst with a strong foundation in data analytics, bolstered by a Bachelor’s Degree in Business Analytics from the Telfer School of Management, University of Ottawa, and a certification from the CareerFoundry boot camp. My passion for data analysis is driven by my love for problem-solving, analyzing, and researching data, which allows me to employ creativity in my work. I am particularly drawn to this field for the engaging process it offers and the satisfaction derived from presenting my results.
 
-I have volunteered in different organizations. I was applauded for being a detail-oriented and innovative employee. Now, I am ready to contribute my skills as a passionate Data Analyst to make data-driven decisions and add value for the cross-functional business teams. 
+My expertise spans machine learning, including both supervised and unsupervised algorithms, and I am skilled in using data visualization techniques to effectively communicate the outcomes of my projects. I am proficient in SQL, Python, and Tableau, tools that I regularly use in my data analysis projects.
+
+Throughout my career, I have embraced opportunities to volunteer and work in various organizations, where I have been recognized for my detail-oriented and innovative approach. My professional experiences have enabled me to hone my abilities in data analysis, business intelligence, and statistical analysis. I have played pivotal roles in analyzing data, identifying gaps, and providing actionable insights that have driven business decisions and strategies.
+
+As a passionate Data Analyst, I am now ready to contribute my skills and experience towards making data-driven decisions and adding value to cross-functional business teams. My commitment to excellence, combined with my analytical prowess and creative problem-solving skills, positions me as a valuable asset to any organization looking to leverage data for strategic advantage.
 
 Do you want to work together? Please reach out to me by e-mail. 
 
