@@ -1,23 +1,22 @@
 ---
 layout: page
-excerpt: "Home"
+excerpt: "Home.."
 ---
 
-“ HI, I AM Morwarid Najafizada
-I’m so glad you’re here! Explore my page to see how I can help you break into Data Analytics and build a successful career. ”
+### HI, I AM Morwarid Najafizada
+I’m so glad you’re here! Explore my page to see how I can help you break into Data Analytics and build a successful career.
+Let’s learn, grow, and navigate the world of data together!  
 
     
     
-#### About Me
-I am Morwarid Najafizada, a certified Data Analyst with a strong foundation in data analytics, bolstered by a Bachelor’s Degree in Business Analytics from the Telfer School of Management, University of Ottawa, and a certification from the CareerFoundry boot camp. My passion for data analysis is driven by my love for problem-solving, analyzing, and researching data, which allows me to employ creativity in my work. I am particularly drawn to this field for the engaging process it offers and the satisfaction derived from presenting my results.
+#### Your Path to Becoming a Data Analyst 
+Data is the backbone of modern decision-making, and skilled data analysts are in high demand across industries. Whether you're a beginner or looking to sharpen your analytical skills, this comprehensive bootcamp will equip you with the tools, techniques, and real-world experience needed to succeed in the field.
 
-My expertise spans machine learning, including both supervised and unsupervised algorithms, and I am skilled in using data visualization techniques to effectively communicate the outcomes of my projects. I am proficient in SQL, Python, and Tableau, tools that I regularly use in my data analysis projects.
+Through hands-on learning, industry-relevant projects, and expert mentorship, you'll master everything from Excel & SQL to Python, Data Visualization, and Statistics. By the end of this bootcamp, you'll have a strong portfolio, interview-ready skills, and a clear roadmap to landing your dream data analyst job.
 
-Throughout my career, I have embraced opportunities to volunteer and work in various organizations, where I have been recognized for my detail-oriented and innovative approach. My professional experiences have enabled me to hone my abilities in data analysis, business intelligence, and statistical analysis. I have played pivotal roles in analyzing data, identifying gaps, and providing actionable insights that have driven business decisions and strategies.
+Here’s how we’ll take you from beginner to job-ready data analyst in 7 structured phases:
 
-As a passionate Data Analyst, I am now ready to contribute my skills and experience towards making data-driven decisions and adding value to cross-functional business teams. My commitment to excellence, combined with my analytical prowess and creative problem-solving skills, positions me as a valuable asset to any organization looking to leverage data for strategic advantage.
 
-Do you want to work together? Please reach out to me by e-mail. 
 
 
 <div id="contact">
