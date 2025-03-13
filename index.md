@@ -3,10 +3,8 @@ layout: page
 excerpt: "Home"
 ---
 
-
-
-“THE GOAL IS TO TURN DATA INTO INFORMATION AND INFORMATION INTO INSIGHT.”
-
+“ HI, I AM Morwarid Najafizada
+I’m so glad you’re here! Explore my page to see how I can help you break into Data Analytics and build a successful career. ”
 
     
     
