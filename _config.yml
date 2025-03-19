@@ -2,7 +2,8 @@
 
 title: Data Analytics 
 locale: en_US
-logo: ![Profile](<img src="https://morwarid1.github.io/images/Profile.png" width="200">)
+
+logo: "/images/Profile.png"
 
 #![Profile](https://morwarid1.github.io/images/Profile.png)
 
