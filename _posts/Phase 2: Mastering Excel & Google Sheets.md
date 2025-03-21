@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: Mastering Excel & Google Sheets
+excerpt: " Data "
+modified: 2/27/2021, 12:10:34
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
 ### 1. Fundamental Functions & Formulas
 Introduction to Excel & Google Sheets UI
 Essential functions: SUM, AVERAGE, COUNT, COUNTA, IF, CONCATENATE, TEXT functions
