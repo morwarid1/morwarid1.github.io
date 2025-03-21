@@ -2,7 +2,7 @@
 layout: post
 title: Phase 2 Mastering Excel & Google Sheets
 excerpt: " Data "
-modified: 3/21/2025, 11:00:00
+modified: 3/21/2025, 02:00:00
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
