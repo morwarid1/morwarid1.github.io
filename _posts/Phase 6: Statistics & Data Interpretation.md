@@ -1,4 +1,4 @@
-1. Descriptive & Inferential Statistics
+### 1. Descriptive & Inferential Statistics
 Measures of Central Tendency & Dispersion
 Mean, median, mode
 Range, variance, standard deviation
@@ -7,7 +7,7 @@ Probability Distributions & Statistical Significance
 Normal, binomial, Poisson, and exponential distributions
 p-values & hypothesis testing
 Confidence levels & significance testing
-2. A/B Testing & Confidence Intervals
+### 2. A/B Testing & Confidence Intervals
 Understanding A/B Testing
 Formulating hypotheses (null vs. alternative)
 Sample size determination
@@ -15,7 +15,7 @@ Type I & Type II errors
 Confidence Intervals
 How to calculate and interpret them
 Impact of sample size and variance
-3. Regression & Predictive Analysis
+### 3. Regression & Predictive Analysis
 Linear & Logistic Regression
 Simple & multiple linear regression
 Logistic regression for classification problems
