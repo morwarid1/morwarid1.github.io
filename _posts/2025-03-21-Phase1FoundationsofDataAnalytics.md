@@ -2,7 +2,7 @@
 layout: post
 title: Phase 1 Introduction to Data Analytics
 excerpt: " Data "
-modified: 3/21/2025, 12:00:00
+modified: 3/21/2025, 1:00:00
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
