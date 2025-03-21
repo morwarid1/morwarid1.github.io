@@ -2,7 +2,7 @@
 layout: post
 title: Statistics & Data Interpretation
 excerpt: " Data "
-modified: 2/27/2021, 12:10:34
+modified: 3/21/2025, 5:00:00
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
