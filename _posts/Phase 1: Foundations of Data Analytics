@@ -1,10 +1,10 @@
-Introduction to Data Analytics
+### Introduction to Data Analytics
 
-What is Data Analytics?
+### What is Data Analytics?
 
 Data Analytics refers to the process of examining, cleaning, transforming, and interpreting data to extract meaningful insights and support decision-making. It involves various techniques, including statistical analysis, machine learning, and data visualization, to identify patterns and trends.
 
-The Role of a Data Analyst
+### The Role of a Data Analyst
 
 A Data Analyst is responsible for collecting, processing, and analyzing data to help businesses make informed decisions. Their key responsibilities include:
 
@@ -18,7 +18,7 @@ Visualizing data using dashboards and charts
 
 Communicating insights to stakeholders
 
-Career Paths & Industry Demand
+### Career Paths & Industry Demand
 
 Data Analysts are in high demand across various industries, including finance, healthcare, retail, and technology. Some common career paths include:
 
@@ -32,7 +32,7 @@ Data Scientist – Uses advanced analytics and machine learning to predict trend
 
 Product Analyst – Analyzes user engagement and product performance
 
-Understanding Data & Analytics
+### Understanding Data & Analytics
 
 Types of Data (Structured vs. Unstructured)
 
@@ -42,7 +42,7 @@ Unstructured Data – Data without a predefined structure, including text, image
 
 Semi-structured Data – A mix of both, like JSON and XML files.
 
-Basics of Databases & Data Storage
+### Basics of Databases & Data Storage
 
 Relational Databases (RDBMS) – Uses structured tables and SQL (e.g., MySQL, PostgreSQL, SQL Server).
 
@@ -50,7 +50,7 @@ NoSQL Databases – Handles unstructured or semi-structured data (e.g., MongoDB,
 
 Cloud Storage & Data Lakes – Platforms like AWS, Google Cloud, and Azure for handling large datasets.
 
-Key Analytics Tools & Technologies
+### Key Analytics Tools & Technologies
 
 Data Manipulation & Querying – SQL, Excel, Python (Pandas, NumPy)
 
