@@ -1,3 +1,15 @@
+---
+layout: post
+title: Python for Data Analysis
+excerpt: " Data "
+modified: 2/27/2021, 12:10:34
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
+
+
+
 ### 1. Introduction to Python
 Why Python for Data Analysis?
 Setting up the Python environment (Jupyter Notebook, Google Colab, VS Code)
