@@ -1,3 +1,12 @@
+---
+layout: post
+title: Capstone Project & Job Readiness
+excerpt: " Data "
+modified: 2/27/2021, 12:10:34
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
 
 ### Capstone Project
 Real-World Hands-On Project: Students will work on a dataset that simulates real industry challenges.
