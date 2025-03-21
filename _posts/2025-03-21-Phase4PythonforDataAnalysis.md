@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python for Data Analysis
+title: Phase 4 Python for Data Analysis
 excerpt: " Data "
 modified: 2/27/2021, 04:00:00
 tags: [intro, beginner, jekyll, tutorial]
