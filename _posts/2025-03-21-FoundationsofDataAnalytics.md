@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Data Analytics
 excerpt: " Data "
-modified: 2/27/2021, 12:10:34
+modified: 3/21/2025, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
