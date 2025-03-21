@@ -1,3 +1,13 @@
+---
+layout: post
+title: Statistics & Data Interpretation
+excerpt: " Data "
+modified: 2/27/2021, 12:10:34
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
+
 ### 1. Descriptive & Inferential Statistics
 Measures of Central Tendency & Dispersion
 Mean, median, mode
