@@ -2,7 +2,7 @@
 layout: post
 title: Python for Data Analysis
 excerpt: " Data "
-modified: 2/27/2021, 4:00:00
+modified: 2/27/2021, 04:00:00
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
