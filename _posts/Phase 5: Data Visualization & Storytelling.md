@@ -1,3 +1,16 @@
+
+---
+layout: post
+title: Data Visualization & Storytelling
+excerpt: " Data "
+modified: 2/27/2021, 12:10:34
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
+
+
+
 Tools: Power BI / Tableau / Google Data Studio
 
 ### 1. Connecting to Data Sources
