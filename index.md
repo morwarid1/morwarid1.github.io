@@ -3,7 +3,7 @@ layout: page
 excerpt: "Home.."
 ---
 
-## HI, I am Morwarid Najafizada
+## Hi! I am Morwarid Najafizada
 
 #### I’m so glad you’re here!
 #### Let’s learn, grow, and navigate the world of data together!  
@@ -15,19 +15,19 @@ Data is the backbone of modern decision-making, and skilled data analysts are in
 
 Through hands-on learning, industry-relevant projects, and expert mentorship, you'll master everything from Excel & SQL to Python, Data Visualization, and Statistics. By the end of this bootcamp, you'll have a strong portfolio, interview-ready skills, and a clear roadmap to landing your dream data analyst job.
 
-### From beginner to job-ready Data Analyst in 7 structured phases:
+#### From beginner to job-ready Data Analyst in 7 structured phases:
 
-### 🔹 Phase 1: Foundations of Data Analytics
+#### 🔹 Phase 1: Foundations of Data Analytics
 
-### 🔹 Phase 2: Mastering Excel & Google Sheets
+#### 🔹 Phase 2: Mastering Excel & Google Sheets
 
-### 🔹 Phase 3: SQL & Databases
+#### 🔹 Phase 3: SQL & Databases
 
-### 🔹 Phase 4: Python for Data Analysis
+#### 🔹 Phase 4: Python for Data Analysis
 
-### 🔹 Phase 5: Data Visualization & Storytelling
+#### 🔹 Phase 5: Data Visualization & Storytelling
 
-### 🔹 Phase 6: Statistics & Data Interpretation
+#### 🔹 Phase 6: Statistics & Data Interpretation
 
 ### 🔹 Phase 7: Capstone Project & Job Readiness
 
