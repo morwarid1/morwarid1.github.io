@@ -3,8 +3,7 @@ layout: page
 excerpt: "Home.."
 ---
 
-#### Hi! I am Morwarid Najafizada. I’m so glad you’re here!
-#### Let’s learn, grow, and navigate the world of data together!  
+#### Hi! I am Morwarid Najafizada. I’m so glad you’re here. Let’s learn, grow, and navigate the world of data together!  
     
     
 ### Your Path to Becoming a Data Analyst 
