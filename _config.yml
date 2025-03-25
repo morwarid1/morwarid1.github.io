@@ -1,5 +1,6 @@
 # Site wide configuration
 
+<h1>{{ site.title }}</h1> 
 title: Data Analytics
 locale: en_US 
 
