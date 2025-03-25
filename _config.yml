@@ -1,12 +1,12 @@
 # Site wide configuration
 
 title: Data Analytics
-locale: en_US
+locale: en_US 
 
 logo: "/images/Profile.png"
 
-#![Profile](https://morwarid1.github.io/images/Profile.png)
-# <img src="https://morwarid1.github.io/images/Profile.png" width="200"> 
+<!-- #![Profile](https://morwarid1.github.io/images/Profile.png)
+<!-- # <img src="https://morwarid1.github.io/images/Profile.png" width="200"> 
 
 
 
