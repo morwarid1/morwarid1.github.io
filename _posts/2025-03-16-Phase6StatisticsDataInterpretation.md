@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📉 Phase 6 | Statistics & Data Interpretation 
+title: 🔍 Phase 6 | Statistics & Data Interpretation 
 excerpt: " Data "
 modified: 3/21/2025, 5:00:00
 tags: [intro, beginner, jekyll, tutorial]
