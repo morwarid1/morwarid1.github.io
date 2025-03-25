@@ -7,7 +7,6 @@ excerpt: "Home.."
 
 #### I’m so glad you’re here!
 #### Let’s learn, grow, and navigate the world of data together!  
-#### Explore my page to see how I can help you break into Data Analytics and build a successful career.
     
     
 ### Your Path to Becoming a Data Analyst 
