@@ -1,4 +1,4 @@
 ---
 layout: post-index
-title: Curriculum
+title: Your Learning Journey Roadmap
 ---
