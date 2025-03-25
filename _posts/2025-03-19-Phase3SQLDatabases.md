@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phase 3 SQL & Databases
+title: 🗄️ Phase 3 | SQL & Databases  
 excerpt: " Data "
 modified: 2/27/2021, 03:00:00
 tags: [intro, beginner, jekyll, tutorial]
