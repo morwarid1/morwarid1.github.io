@@ -17,7 +17,7 @@ Through hands-on learning, industry-relevant projects, and expert mentorship, yo
 
 ### From beginner to job-ready Data Analyst in 7 structured phases:
 
-🔹 ## Phase 1: Foundations of Data Analytics
+## 🔹 Phase 1: Foundations of Data Analytics
 
 🔹 Phase 2: Mastering Excel & Google Sheets
 
