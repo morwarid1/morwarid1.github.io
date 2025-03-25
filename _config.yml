@@ -1,7 +1,7 @@
 # Site wide configuration
 
-<h1>{{ site.title }}</h1> 
-title: Data Analytics
+
+title: <h1>{{ site.title }}</h1> 
 locale: en_US 
 
 logo: "/images/Profile.png"
