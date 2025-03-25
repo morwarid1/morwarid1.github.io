@@ -13,7 +13,7 @@ I’m a data analyst and educator, passionate about helping others grow their sk
 
 This site will guide you through 7 clear phases to help you master tools like Excel, SQL, Python, and more — whether you're just starting or upskilling.
 
-### > "Learning data is a journey — and you're not walking it alone."
+###  "Learning data is a journey — and you're not walking it alone." 🤝
 
 ---
 
