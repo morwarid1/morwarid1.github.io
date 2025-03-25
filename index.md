@@ -3,21 +3,21 @@ layout: page
 excerpt: "Home.."
 ---
 
-## HI, I AM Morwarid Najafizada
+## HI, I am Morwarid Najafizada
 
 #### I’m so glad you’re here!
 #### Let’s learn, grow, and navigate the world of data together!  
 #### Explore my page to see how I can help you break into Data Analytics and build a successful career.
     
     
-#### Your Path to Becoming a Data Analyst 
+### Your Path to Becoming a Data Analyst 
 Data is the backbone of modern decision-making, and skilled data analysts are in high demand across industries. Whether you're a beginner or looking to sharpen your analytical skills, this comprehensive bootcamp will equip you with the tools, techniques, and real-world experience needed to succeed in the field.
 
 Through hands-on learning, industry-relevant projects, and expert mentorship, you'll master everything from Excel & SQL to Python, Data Visualization, and Statistics. By the end of this bootcamp, you'll have a strong portfolio, interview-ready skills, and a clear roadmap to landing your dream data analyst job.
 
 ### From beginner to job-ready Data Analyst in 7 structured phases:
 
-🔹 Phase 1: Foundations of Data Analytics
+🔹 ## Phase 1: Foundations of Data Analytics
 
 🔹 Phase 2: Mastering Excel & Google Sheets
 
