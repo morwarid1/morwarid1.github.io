@@ -2,15 +2,15 @@
 - title: Home
   url: /
   
-- title: Porjects
+- title: Curriculum
   url: /blog/
 
-- title: Curriculum
-  url: /
+##- title: Curriculum
+##  url: /
   
 - title: Contact Me
   url: /presentations/
   
 
-- title: Workshops
-  url: /workshops/
+##- title: Workshops
+## url: /workshops/
