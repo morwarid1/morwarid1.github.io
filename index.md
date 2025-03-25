@@ -28,7 +28,7 @@ Through hands-on learning, industry-relevant projects, and expert mentorship, yo
 #### 🔹 Phase 7: Capstone Project & Job Readiness
 
 
-<div id="contact">
+<!-- <div id="contact">
         <h2>Get in Touch</h2>
         
 Send me a message and I'll get back to you as soon as possible   
@@ -45,7 +45,7 @@ Send me a message and I'll get back to you as soon as possible
 
 
 
-#### Tools Used 
+<!-- #### Tools Used 
 
 <!-- --|--|--|--|--|
 ---------------| ----------------- |----------------|------------|------|
