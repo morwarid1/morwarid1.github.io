@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phase 7 Capstone Project & Job Readiness
+title: 🎓 Phase 7 | Capstone Project & Job Readiness 
 excerpt: " Data "
 modified: 3/01/2025, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
