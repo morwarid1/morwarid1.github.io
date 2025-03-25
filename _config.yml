@@ -1,8 +1,8 @@
 # Site wide configuration
 
 
-title: Data Analytics
-locale: en_US 
+#title: Data Analytics
+#locale: en_US 
 
 logo: "/images/Profile.png" 
 
