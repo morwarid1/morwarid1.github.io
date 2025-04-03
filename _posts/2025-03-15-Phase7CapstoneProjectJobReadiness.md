@@ -41,7 +41,15 @@ Apply everything you’ve learned in a **hands-on data project** that mirrors in
 - Practice clear communication, storytelling, and stakeholder engagement
 - Receive **feedback from peers or mentors**
 
-> 💼 This project becomes a highlight in your portfolio — share it on GitHub, LinkedIn, and during interviews.
+## 🚀 What Comes Next?
+
+This capstone project becomes a **centerpiece in your data portfolio**, showcasing:
+
+- Your technical proficiency
+- Business understanding
+- Communication skills
+
+> *Real projects = Real results. This is your proof of potential.*
 
 
 
