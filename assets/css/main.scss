@@ -66,3 +66,10 @@ $lowlightcolor: {{ site.lowlight-color }};
     margin-right: 10px;
   }
 }
+
+.article-author-side {
+  display: block !important;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
