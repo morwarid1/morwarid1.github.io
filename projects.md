@@ -2,7 +2,7 @@
 layout: post-index
 title: Projects
 category: projects
-excerpt: "Recent Workshops"
+excerpt: "Recent Projects"
 ---
 
 # Welcome to my project portfolio! 🚀
