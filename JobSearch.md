@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: JobSearch
+title: Job Search
 category: JobSearch
 permalink: /JobSearch/
 ---
