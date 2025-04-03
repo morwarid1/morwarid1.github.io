@@ -8,7 +8,6 @@ comments: true
 category: blog
 ---
 
-# 🧾 Phase 2: Mastering Excel & Google Sheets for Data Analysis
 
 Welcome to **Phase 2** of your data journey! In this module, we explore two of the most powerful and accessible tools in a data analyst’s toolkit: **Microsoft Excel** and **Google Sheets**. Whether you're prepping raw data or creating dynamic dashboards, this guide will help you master it all.
 
