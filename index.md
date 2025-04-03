@@ -4,6 +4,23 @@ excerpt: "Home.."
 ---
 
 
+<!-- Welcome Bio Section -->
+<div class="inline-bio">
+  {% assign author = site.owner %}
+
+  <img src="/images/{{ author.avatar }}" alt="{{ author.name }}" class="inline-bio-photo" />
+  <h2>{{ author.name }}</h2>
+  <p><em>{{ author.bio }}</em></p>
+
+  <p>
+    📧 <a href="mailto:{{ author.email }}">Email</a><br>
+    💼 <a href="https://linkedin.com/in/{{ author.linkedin }}">LinkedIn</a><br>
+    💻 <a href="https://github.com/{{ author.github }}">GitHub</a><br>
+    📸 <a href="https://instagram.com/{{ author.instagram }}">Instagram</a>
+  </p>
+</div>
+
+
 #### Hi! I’m Morwarid Najafizada 👋
 
 Welcome to my Data Bootcamp space!  
