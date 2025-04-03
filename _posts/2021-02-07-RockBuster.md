@@ -8,7 +8,7 @@ launch an online video rental service in order to stay competitive. "
 modified: 2/27/2021, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-category: blog
+category: projects
 ---
 
 
