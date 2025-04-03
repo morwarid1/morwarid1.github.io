@@ -8,7 +8,6 @@ comments: true
 category: blog
 ---
 
-# 🐍 Phase 4: Python for Data Analysis
 
 Welcome to **Phase 4** of your data journey! Python is one of the most versatile and widely used programming languages in the data world. In this phase, you'll learn how to manipulate, clean, analyze, and visualize data using powerful Python libraries.
 
