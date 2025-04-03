@@ -10,6 +10,7 @@ excerpt: "Home.."
 
   <img src="/images/{{ author.avatar }}" alt="{{ author.name }}" class="inline-bio-photo" />
 
+![flu](https://morwarid1.github.io/images/Profile.png) 
   <p>
     📧 <a href="mailto:{{ author.email }}">Email</a><br>
     💼 <a href="https://linkedin.com/in/{{ author.linkedin }}">LinkedIn</a><br>
