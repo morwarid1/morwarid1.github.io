@@ -15,9 +15,11 @@
 
 
 <div id="main" role="main">
+  {%- comment -%}
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  {%- endcomment -%}
   <div id="index">
     <h3><a href="{{ site.github.url}}/archive/">Recent Posts</a></h3>
     {% for post in site.categories.blog limit:5 %}
