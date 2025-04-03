@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-# 🎓 Phase 7: Capstone Project & Job Readiness
+
 
 Congratulations on reaching **Phase 7** of your data journey! You’ve learned the tools, techniques, and frameworks — now it’s time to put everything into action. This phase focuses on building your **portfolio**, showcasing your **skills**, and preparing you for the **job market** with confidence.
 
