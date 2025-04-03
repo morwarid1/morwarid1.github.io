@@ -8,7 +8,6 @@ comments: true
 category: blog
 ---
 
-# 🗃️ Phase 3: SQL & Databases for Data Analysis
 
 Welcome to **Phase 3** of your data journey! In this module, you'll learn **Structured Query Language (SQL)** — a must-have skill for querying, analyzing, and managing relational databases.
 
