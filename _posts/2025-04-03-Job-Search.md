@@ -8,8 +8,6 @@ comments: true
 category: JobSearch
 ---
 
-
-
 Turn your skills into career opportunities with personalized preparation.
 
 ### ✍️ Resume & LinkedIn Optimization
