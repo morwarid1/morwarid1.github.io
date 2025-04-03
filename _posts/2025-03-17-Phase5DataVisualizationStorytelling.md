@@ -7,7 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
-# 📊 Phase 5: Data Visualization & Storytelling
+
 
 Welcome to **Phase 5** of your data journey! Knowing how to analyze data is essential — but being able to **communicate those insights visually** is what makes a data analyst truly powerful. This module focuses on building **interactive dashboards** and using **storytelling principles** to drive decisions.
 
