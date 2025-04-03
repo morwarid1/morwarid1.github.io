@@ -5,7 +5,7 @@ excerpt: "Python & Writing Reports:Instacart is an online grocery store that ope
 modified: 2/27/2021, 12:10:34
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-category: blog
+category: projects
 ---
 
 ![Pies](https://morwarid1.github.io/images/instacart_images/bk.png) 
