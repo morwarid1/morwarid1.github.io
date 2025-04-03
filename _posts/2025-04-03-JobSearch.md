@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🚀 Job Search & Career Support
-excerpt: " Kickstart your data journey by understanding what data analytics is, the role of a data analyst, and essential tools used in the industry."
+excerpt: " Learn how to optimize your resume, ace interviews, and land your first role as a Data Analyst."
 modified: 4/03/2025, 1:00:00
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
