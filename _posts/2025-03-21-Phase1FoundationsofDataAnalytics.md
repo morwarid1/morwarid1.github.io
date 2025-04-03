@@ -88,3 +88,5 @@ Data Analysts are in high demand across industries like **finance**, **healthcar
 
 This foundational phase prepares you for deeper dives into data wrangling, analysis, and storytelling with data. In the next phase, you'll get hands-on with tools and start building real-world projects.
 
+> **Stay curious. Stay analytical. Phase 2 is just around the corner!**
+
