@@ -10,7 +10,7 @@ category: JobSearch
 
 You’ve built the skills. Now let’s focus on getting hired. This post walks through the key career-building steps to help you **stand out** in the job market and land your first (or next!) data role.
 
-
+--- 
 ## ✍️ Resume & LinkedIn Optimization
 
 ### 📄 Resume
