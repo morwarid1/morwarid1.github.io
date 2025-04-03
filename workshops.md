@@ -5,6 +5,7 @@ category: projects
 excerpt: "Recent Workshops"
 ---
 
-# Workshops I've Put Together
+# Welcome to my project portfolio! 🚀
+
 
 - [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
