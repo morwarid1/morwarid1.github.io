@@ -9,7 +9,6 @@ excerpt: "Home.."
   {% assign author = site.owner %}
 
   <img src="/images/{{ author.avatar }}" alt="{{ author.name }}" class="inline-bio-photo" />
-  <h2>{{ author.name }}</h2>
   <p><em>{{ author.bio }}</em></p>
 
   <p>
