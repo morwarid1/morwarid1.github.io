@@ -1,6 +1,4 @@
 ---
-layout: post-index
-title: Job Search
-category: JobSearch
-permalink: /JobSearch/
+layout: page
+excerpt: "JobSearch"
 ---
