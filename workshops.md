@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Workshops
+layout: post-index
+title: Projects
+category: projects
 excerpt: "Recent Workshops"
 ---
 
