@@ -19,6 +19,20 @@ excerpt: "Home.."
 </div>
 
 
+owner:
+  name: Morwarid Najafizada
+  avatar: Profile.png
+  bio: "lets learn together"
+  email: morwarid.najafizada@gmail.com
+  linkedin: Morwarid
+  github: morwarid1
+  tableau: morwarid.najafizada
+  instagram: morwarid_in_data 
+
+
+
+
+
 #### Hi! I’m Morwarid Najafizada 👋
 
 Welcome to my Data Bootcamp space!  
