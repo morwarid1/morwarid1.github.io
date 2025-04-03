@@ -97,5 +97,4 @@ In **Phase 4**, we’ll dive into **Python for Data Analysis** and bring automat
 
 > *Structured data, structured thinking. Let SQL be your superpower in data analysis.*
 
----
 
