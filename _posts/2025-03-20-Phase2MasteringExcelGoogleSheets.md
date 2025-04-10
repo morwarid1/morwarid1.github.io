@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-![Pies](https://morwarid1.github.io/images/Rockbuster/RDMS.png) 
+![Pies](https://morwarid1.github.io/images/EXCEL.png) 
 
 Welcome to **Phase 2** of your data journey! In this module, we explore two of the most powerful and accessible tools in a data analyst’s toolkit: **Microsoft Excel** and **Google Sheets**. Whether you're prepping raw data or creating dynamic dashboards, this guide will help you master it all.
 
