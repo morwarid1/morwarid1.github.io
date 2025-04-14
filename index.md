@@ -4,9 +4,8 @@ excerpt: "Home.."
 ---
 
 
-# "Learning data is a journey — and you're not walking it alone." 🤝
+"Learning data is a journey — and you're not walking it alone." 🤝
 ![flu](https://morwarid1.github.io/images/Profile.png) 
-###  "Learning data is a journey — and you're not walking it alone." 🤝
 
 
 #### Hi! I’m Morwarid Najafizada 👋
