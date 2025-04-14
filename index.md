@@ -14,8 +14,6 @@ excerpt: "Home.."
 Welcome to my Data Bootcamp space!  
 I’m so glad you’re here.
 
-I’m a data analyst and educator, passionate about helping others grow their skills and confidence in the world of data.
-
 This site will guide you through 7 clear phases to help you master tools like Excel, SQL, Python, and more — whether you're just starting or upskilling.
 
 ---
