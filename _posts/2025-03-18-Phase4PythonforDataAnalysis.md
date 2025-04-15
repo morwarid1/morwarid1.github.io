@@ -9,6 +9,12 @@ category: blog
 ---
 
 
+![Pies](https://morwarid1.github.io/images/Python/Python.png)  
+![Pies](https://morwarid1.github.io/images/Python/Beginner.png)  
+![Pies](https://morwarid1.github.io/images/Python/Intermediate.png)  
+![Pies](https://morwarid1.github.io/images/Python/Advanced.png)  
+![Pies](https://morwarid1.github.io/images/Python/Pro.png) 
+
 Welcome to **Phase 4** of your data journey! Python is one of the most versatile and widely used programming languages in the data world. In this phase, you'll learn how to manipulate, clean, analyze, and visualize data using powerful Python libraries.
 
 ---
