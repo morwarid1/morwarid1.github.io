@@ -13,6 +13,8 @@ Welcome to **Phase 5** of your data journey! Knowing how to analyze data is esse
 
 ---
 
+
+StoryTelling.png 
 ## 🔧 Tools We’ll Use
 
 - **Power BI**  
