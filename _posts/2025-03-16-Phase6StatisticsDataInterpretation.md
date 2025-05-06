@@ -8,6 +8,7 @@ comments: true
 category: blog
 ---
 
+![Pies](https://morwarid1.github.io/images/Stats.png )  
 
 Welcome to **Phase 6** of your data journey! Understanding **statistics** is crucial for turning data into confident, data-driven decisions. In this phase, you'll learn the fundamentals of descriptive and inferential statistics, A/B testing, and predictive modeling through regression.
 
