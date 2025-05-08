@@ -9,15 +9,15 @@ logo: "/images/Profile.png"
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Morwarid Najafizada
+  name: #Morwarid Najafizada
   avatar: Profile.png
   bio: "lets learn together"
-  email: #morwarid.najafizada@gmail.com ---
+  email: morwarid.najafizada@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #morwarid2
-  linkedin: #Morwarid ---
-  github: #morwarid1---
-  tableau: #morwarid.najafizada---
+  twitter: morwarid2
+  linkedin: Morwarid
+  github: morwarid1
+  tableau: morwarid.najafizada
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -27,7 +27,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #morwarid_in_data ---
+  instagram: morwarid_in_data
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
