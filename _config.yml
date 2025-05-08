@@ -1,7 +1,7 @@
 # Site wide configuration
 
 
-#Title: Data Analytics
+Title: Data Analytics
 #locale: en_US 
 
 logo: "/images/Profile.png" 
@@ -9,9 +9,9 @@ logo: "/images/Profile.png"
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: #Morwarid Najafizada  --
+  name: Morwarid Najafizada
   avatar: Profile.png
-  bio: #"lets learn together"  --
+  bio: "lets learn together"
   email: #morwarid.najafizada@gmail.com ---
   # Do not include the @ symbol in your Twitter username
   twitter: #morwarid2
