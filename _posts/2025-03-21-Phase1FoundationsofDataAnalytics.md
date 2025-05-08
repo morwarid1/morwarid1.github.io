@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-
+![Pies](https://morwarid1.github.io/images/DataAnalytics.png) 
 
 Welcome to **Phase 1** of your data analytics journey! Whether you're transitioning careers or exploring analytics for the first time, this guide lays the foundation for everything ahead.
 
