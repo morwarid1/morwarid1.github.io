@@ -31,3 +31,20 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "print";
 
 
+body {
+  background-color: #e6f2ff; // light blue
+  color: #000000; // black text
+}
+
+a {
+  color: #0066cc; // darker blue for links
+}
+
+.site-header, .page__footer, .sidebar, .masthead {
+  background-color: #cce6ff; // soft blue for headers and footers
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #003366; // deep navy blue for headings
+}
