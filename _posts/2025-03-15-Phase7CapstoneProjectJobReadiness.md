@@ -41,6 +41,30 @@ Apply everything you’ve learned in a **hands-on data project** that mirrors in
 - Practice clear communication, storytelling, and stakeholder engagement
 - Receive **feedback from peers or mentors**
 
+## Project: "End-to-End Analytics Project with Presentation"
+
+Choose from one of these themes:
+
+-- Retail Sales Dashboard (combine Excel + Power BI + SQL)
+
+-- COVID-19 Trends Analysis (public dataset + Python)
+
+-- Food Delivery App Analysis (SQL + dashboard)
+
+## Deliverables:
+
+-- Cleaned dataset
+
+-- Notebook with analysis or SQL scripts
+
+-- Dashboard/report
+
+-- 5-minute recorded walkthrough or written case study
+
+-- GitHub upload + LinkedIn post
+
+
+
 ## 🚀 What Comes Next?
 
 This capstone project becomes a **centerpiece in your data portfolio**, showcasing:
