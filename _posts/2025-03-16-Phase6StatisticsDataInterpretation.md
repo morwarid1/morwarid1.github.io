@@ -90,6 +90,21 @@ Apply what you've learned in real-world scenarios:
 
 ---
 
+## Project: "A/B Test Performance Analysis for Marketing Campaign"
+
+Objectives:
+
+- Analyze data from a fictional A/B test (control vs variant)
+
+- Perform hypothesis testing using Python (scipy.stats)
+
+- Calculate mean, std dev, confidence intervals
+
+- Visualize results and make a conclusion
+
+- Bonus: Run regression to predict outcome based on user traits
+
+
 ## 🎯 What’s Next?
 
 By the end of this phase, you’ll be able to apply statistical methods to validate ideas, evaluate experiments, and build predictive models. In **Phase 7**, we’ll explore how to apply these concepts in a full **end-to-end capstone project**.
