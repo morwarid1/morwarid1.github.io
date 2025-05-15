@@ -101,6 +101,20 @@ Streamline your workflow with automation:
 
 By the end of this phase, you’ll be equipped to clean, analyze, and present data confidently using spreadsheets. In **Phase 3**, we’ll dive into **SQL for data extraction and querying.**
 
+## Project: "Monthly KPI Dashboard for an E-Commerce Store"
+
+Objectives:
+
+- Use dummy data (sales, customers, product returns)
+
+- Apply formulas like VLOOKUP, IF, SUMIFS
+
+- Create pivot tables and slicers
+
+- Design a dashboard using charts (bar, line, pie)
+
+- Bonus: Add automation using simple Macros or Google App Script
+
 > **Consistency is key — the more you practice, the more fluent you’ll become in spreadsheets.**
 
 
