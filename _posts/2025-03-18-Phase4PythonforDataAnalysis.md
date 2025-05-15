@@ -130,4 +130,18 @@ Put your skills to the test with a real dataset!
 
 Congrats! You’ve just completed a huge milestone in your data journey. In **Phase 5**, we’ll explore **statistics and probability** — the backbone of predictive analytics and machine learning.
 
+## Project: "Customer Churn Analysis Using Pandas & Seaborn"
+
+Objectives:
+
+- Clean and explore a Telco churn dataset
+
+- Handle missing values, outliers
+
+- Use groupby(), value_counts(), and basic EDA
+
+- Visualize churn patterns using Seaborn (bar, box, heatmaps)
+
+- Bonus: Save cleaned dataset as a CSV for dashboard use
+
 > *Python turns data into action. The more you explore, the more powerful your insights become.*
