@@ -95,6 +95,22 @@ By completing this phase, you’ll be comfortable querying structured data, buil
 
 In **Phase 4**, we’ll dive into **Python for Data Analysis** and bring automation and flexibility to your data workflows.
 
+## Project: "Customer Insights from an Online Store Database"
+
+Objectives:
+
+- Write SQL queries to answer:
+
+-- Top 5 customers by spending
+
+-- Most returned products
+
+-- Monthly revenue trends
+
+- Use JOIN, GROUP BY, ORDER BY, subqueries
+
+- Bonus: Use SQLite or PostgreSQL and connect to Python or Power BI
+
 > *Structured data, structured thinking. Let SQL be your superpower in data analysis.*
 
 
