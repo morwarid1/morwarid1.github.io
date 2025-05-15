@@ -87,7 +87,7 @@ Data Analysts are in high demand across industries like **finance**, **healthcar
 
 This foundational phase prepares you for deeper dives into data wrangling, analysis, and storytelling with data. In the next phase, you'll get hands-on with tools and start building real-world projects.
 
-Project: "Data Career Mapping & Tool Familiarization"
+## Project: "Data Career Mapping & Tool Familiarization"
 
 Objectives:
 
