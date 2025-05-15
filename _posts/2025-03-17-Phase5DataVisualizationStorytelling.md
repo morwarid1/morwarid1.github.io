@@ -112,6 +112,22 @@ Make your dashboards **polished and presentation-ready**:
 - Present insights to a **mock stakeholder or client**
 
 ---
+## Objectives:
+
+- Use Power BI or Tableau to build an interactive dashboard
+
+- Visualize:
+
+-- Sales by region
+
+-- Top products
+
+-- Sales trends by month
+
+-- Filters for date/product/category
+
+- Bonus: Add narrative insight in a separate text card or presentation
+
 
 ## 🎯 What’s Next?
 
