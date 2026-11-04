@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morwarid Najafizada — Data Analyst</title>
+<meta name="description" content="Portfolio of Morwarid Najafizada, Data Analyst in Toronto with 5+ years across business intelligence, analytics, and financial reporting.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<style>
+  :root{
+    --ink:#1c2430;
+    --muted:#5d6675;
+    --accent:#0f766e;
+    --accent-dark:#0b5f58;
+    --bg:#faf9f6;
+    --card:#ffffff;
+    --border:#e9e4d9;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink);background:var(--bg);line-height:1.65;font-size:17px;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent);text-decoration:none}
+  a:hover{color:var(--accent-dark);text-decoration:underline}
+  .wrap{max-width:1060px;margin:0 auto;padding:0 24px}
+
+  /* Nav */
+  .nav{
+    position:sticky;top:0;z-index:50;
+    background:rgba(250,249,246,.92);backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+  }
+  .nav-inner{display:flex;align-items:center;justify-content:space-between;max-width:1060px;margin:0 auto;padding:14px 24px}
+  .nav-name{font-weight:700;font-size:18px;color:var(--ink);letter-spacing:.2px}
+  .nav-links{display:flex;gap:26px;flex-wrap:wrap}
+  .nav-links a{color:var(--muted);font-weight:500;font-size:15.5px}
+  .nav-links a:hover{color:var(--ink);text-decoration:none}
+
+  /* Hero */
+  .hero{padding:84px 0 64px}
+  .hero-grid{display:grid;grid-template-columns:1fr 220px;gap:48px;align-items:center}
+  .pill{
+    display:inline-block;background:#e6f4f2;color:var(--accent-dark);
+    font-size:13.5px;font-weight:600;letter-spacing:.4px;text-transform:uppercase;
+    padding:7px 14px;border-radius:999px;margin-bottom:20px;
+  }
+  .pill .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#16a34a;margin-right:8px;vertical-align:1px}
+  h1{font-size:clamp(38px,5.5vw,58px);line-height:1.12;letter-spacing:-1px;margin-bottom:10px}
+  .role{font-size:clamp(19px,2.6vw,24px);font-weight:600;color:var(--accent-dark);margin-bottom:16px}
+  .tagline{font-size:18.5px;color:var(--muted);max-width:34em;margin-bottom:14px}
+  .location{color:var(--muted);font-size:15.5px;margin-bottom:28px}
+  .cta-row{display:flex;gap:14px;flex-wrap:wrap}
+  .btn{
+    display:inline-block;padding:13px 26px;border-radius:10px;font-weight:600;font-size:16px;
+    transition:transform .12s ease, box-shadow .12s ease;
+  }
+  .btn:hover{text-decoration:none;transform:translateY(-1px)}
+  .btn-primary{background:var(--accent);color:#fff;box-shadow:0 6px 18px rgba(15,118,110,.25)}
+  .btn-primary:hover{color:#fff;background:var(--accent-dark)}
+  .btn-ghost{background:var(--card);color:var(--ink);border:1px solid var(--border)}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent-dark)}
+  .photo{
+    width:220px;height:220px;border-radius:50%;object-fit:cover;
+    border:5px solid #fff;box-shadow:0 12px 32px rgba(28,36,48,.16);
+    justify-self:end;
+  }
+
+  /* Sections */
+  section.block{padding:56px 0}
+  .kicker{font-size:13.5px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+  h2.sec{font-size:clamp(26px,3.4vw,34px);letter-spacing:-.5px;margin-bottom:18px}
+  .about p{max-width:44em;margin-bottom:14px;color:#333c49}
+  .about p strong{color:var(--ink)}
+
+  /* Skills */
+  .skill-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin-top:8px}
+  .skill-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
+  .skill-card h3{font-size:16px;margin-bottom:14px;color:var(--ink)}
+  .tags{display:flex;flex-wrap:wrap;gap:9px}
+  .tag{
+    background:#f1efe9;color:#3d4654;font-size:14px;font-weight:500;
+    padding:6px 13px;border-radius:999px;border:1px solid #e3ded2;
+  }
+
+  /* Projects */
+  .proj-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px;margin-top:8px}
+  .proj{
+    background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+    overflow:hidden;display:flex;flex-direction:column;
+    transition:transform .14s ease, box-shadow .14s ease;
+  }
+  .proj:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(28,36,48,.12)}
+  .proj img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top;background:#eef0f2;display:block}
+  .proj-body{padding:24px;display:flex;flex-direction:column;flex:1}
+  .proj-body h3{font-size:20px;margin-bottom:6px;letter-spacing:-.3px}
+  .proj-q{font-style:italic;color:var(--accent-dark);font-size:15.5px;margin-bottom:10px}
+  .proj-body p.desc{color:var(--muted);font-size:15.5px;margin-bottom:16px}
+  .proj-tags{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}
+  .proj-tags .tag{font-size:13px;padding:5px 11px}
+  .proj-links{margin-top:auto;display:flex;gap:18px;font-weight:600;font-size:15px}
+  .proj-links a{display:inline-flex;align-items:center;gap:6px}
+  .proj-links a:hover{text-decoration:underline}
+
+  /* Contact */
+  .contact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:8px}
+  .contact-card{
+    background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+    padding:22px;display:block;transition:border-color .14s ease, transform .14s ease;
+  }
+  .contact-card:hover{border-color:var(--accent);transform:translateY(-2px);text-decoration:none}
+  .contact-card .label{font-size:13px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+  .contact-card .value{font-weight:600;color:var(--ink);font-size:16px;word-break:break-word}
+  .contact-note{color:var(--muted);max-width:40em;margin-bottom:6px}
+
+  footer{border-top:1px solid var(--border);padding:28px 0;color:var(--muted);font-size:14.5px}
+  footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+
+  @media (max-width:720px){
+    .hero{padding:56px 0 44px}
+    .hero-grid{grid-template-columns:1fr;gap:28px}
+    .photo{width:150px;height:150px;justify-self:start}
+    .nav-links{gap:16px}
+  }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="nav-name" href="#top">Morwarid Najafizada</a>
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <div class="wrap">
+
+    <section class="hero">
+      <div class="hero-grid">
+        <div>
+          <span class="pill"><span class="dot"></span>Open to new opportunities</span>
+          <h1>Morwarid Najafizada</h1>
+          <div class="role">Data Analyst &middot; Business Analyst &middot; Financial Analyst</div>
+          <p class="tagline">I turn complex data into clear, decision-ready insights — across business intelligence, analytics, and financial reporting.</p>
+          <p class="location">Toronto, Ontario, Canada</p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="#projects">View my work</a>
+            <a class="btn btn-ghost" href="#contact">Get in touch</a>
+          </div>
+        </div>
+        <img class="photo" src="https://raw.githubusercontent.com/morwarid1/morwarid1.github.io/master/images/Profile.png" alt="Portrait of Morwarid Najafizada" loading="lazy">
+      </div>
+    </section>
+
+    <section class="block about" id="about">
+      <div class="kicker">About</div>
+      <h2 class="sec">Analyst first, storyteller always</h2>
+      <p>I&rsquo;m a data analyst with <strong>5+ years of experience</strong> across data analytics, business intelligence, and financial reporting. I work across the full analytics workflow &mdash; from SQL queries and Python analysis to interactive Tableau and Power BI dashboards &mdash; and I care about one thing above all: analysis that decision-makers can actually use.</p>
+      <p>I hold a <strong>Bachelor&rsquo;s degree in Business Analytics and Finance</strong> from the Telfer School of Management at the University of Ottawa, and I&rsquo;m based in <strong>Toronto, Ontario</strong>.</p>
+    </section>
+
+    <section class="block" id="skills">
+      <div class="kicker">Skills</div>
+      <h2 class="sec">Toolbox</h2>
+      <div class="skill-grid">
+        <div class="skill-card">
+          <h3>Data &amp; querying</h3>
+          <div class="tags">
+            <span class="tag">SQL</span>
+            <span class="tag">Python (pandas)</span>
+            <span class="tag">Excel / VBA</span>
+          </div>
+        </div>
+        <div class="skill-card">
+          <h3>BI &amp; visualization</h3>
+          <div class="tags">
+            <span class="tag">Tableau</span>
+            <span class="tag">Power BI</span>
+            <span class="tag">Domo</span>
+            <span class="tag">KNIME</span>
+          </div>
+        </div>
+        <div class="skill-card">
+          <h3>Analysis toolkit</h3>
+          <div class="tags">
+            <span class="tag">Requirements gathering</span>
+            <span class="tag">Process mapping</span>
+            <span class="tag">Root cause analysis</span>
+            <span class="tag">UAT support</span>
+            <span class="tag">Financial modeling</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="projects">
+      <div class="kicker">Featured projects</div>
+      <h2 class="sec">Work that answers real questions</h2>
+      <div class="proj-grid">
+
+        <article class="proj">
+          <img src="https://public.tableau.com/static/images/Ro/RockbusterOnlineVideoStreamingCompanyAnalysis/Dashboard2/4_3.png" alt="Rockbuster dashboard preview" loading="lazy">
+          <div class="proj-body">
+            <h3>Rockbuster &mdash; Streaming Insights</h3>
+            <div class="proj-q">&ldquo;Which movies and customer segments drive revenue for an online video rental company?&rdquo;</div>
+            <p class="desc">End-to-end analysis of a streaming company&rsquo;s rental data &mdash; from SQL data extraction to an interactive Tableau dashboard showing where growth comes from.</p>
+            <div class="proj-tags">
+              <span class="tag">SQL</span><span class="tag">Tableau</span>
+            </div>
+            <div class="proj-links">
+              <a href="https://public.tableau.com/views/RockbusterOnlineVideoStreamingCompanyAnalysis/Dashboard2" target="_blank" rel="noopener">Live dashboard &rarr;</a>
+              <a href="https://github.com/morwarid1/Rockbuster-Stealth-Data-Analysis-Project" target="_blank" rel="noopener">GitHub repo &rarr;</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="proj">
+          <img src="https://public.tableau.com/static/images/In/InstacartGroceryBasketAnalysis/Dashboard1/4_3.png" alt="Instacart dashboard preview" loading="lazy">
+          <div class="proj-body">
+            <h3>Instacart &mdash; Basket Analysis</h3>
+            <div class="proj-q">&ldquo;What do millions of grocery orders reveal about customer buying patterns?&rdquo;</div>
+            <p class="desc">Exploratory analysis of large-scale grocery order data in Python &mdash; uncovering when, what, and how often customers buy &mdash; presented in Tableau.</p>
+            <div class="proj-tags">
+              <span class="tag">Python</span><span class="tag">pandas</span><span class="tag">Tableau</span>
+            </div>
+            <div class="proj-links">
+              <a href="https://public.tableau.com/views/InstacartGroceryBasketAnalysis/Dashboard1" target="_blank" rel="noopener">Live dashboard &rarr;</a>
+              <a href="https://github.com/morwarid1/Instacart-Grocery-Basket-Exploratory-Analysis" target="_blank" rel="noopener">GitHub repo &rarr;</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="proj">
+          <img src="https://public.tableau.com/static/images/CO/COVID-19_16260096704520/Dashboard7/4_3.png" alt="COVID-19 dashboard preview" loading="lazy">
+          <div class="proj-body">
+            <h3>COVID-19 in the US</h3>
+            <div class="proj-q">&ldquo;How did the pandemic unfold across the United States?&rdquo;</div>
+            <p class="desc">Descriptive analysis of US COVID-19 data, visualized state by state in an interactive Tableau dashboard.</p>
+            <div class="proj-tags">
+              <span class="tag">Tableau</span><span class="tag">Data storytelling</span>
+            </div>
+            <div class="proj-links">
+              <a href="https://public.tableau.com/views/COVID-19_16260096704520/Dashboard7" target="_blank" rel="noopener">Live dashboard &rarr;</a>
+              <a href="https://github.com/morwarid1/COVID-19-in-the-US-Descriptive-Analysis" target="_blank" rel="noopener">GitHub repo &rarr;</a>
+            </div>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <section class="block" id="contact">
+      <div class="kicker">Contact</div>
+      <h2 class="sec">Let&rsquo;s connect</h2>
+      <p class="contact-note">I&rsquo;m currently open to Data Analyst, Business Analyst, and Financial Analyst roles. The fastest way to reach me is email.</p>
+      <div class="contact-grid">
+        <a class="contact-card" href="mailto:morwarid.najafizada@gmail.com">
+          <div class="label">Email</div>
+          <div class="value">morwarid.najafizada@gmail.com</div>
+        </a>
+        <a class="contact-card" href="https://www.linkedin.com/in/morwarid" target="_blank" rel="noopener">
+          <div class="label">LinkedIn</div>
+          <div class="value">linkedin.com/in/morwarid</div>
+        </a>
+        <a class="contact-card" href="https://github.com/morwarid1" target="_blank" rel="noopener">
+          <div class="label">GitHub</div>
+          <div class="value">github.com/morwarid1</div>
+        </a>
+        <a class="contact-card" href="https://public.tableau.com/app/profile/morwarid.najafizada" target="_blank" rel="noopener">
+          <div class="label">Tableau Public</div>
+          <div class="value">Interactive dashboards</div>
+        </a>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>&copy; 2026 Morwarid Najafizada</span>
+    <span>Toronto, ON &middot; Built with GitHub Pages</span>
+  </div>
+</footer>
+
+</body>
+</html>
